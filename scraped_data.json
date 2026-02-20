@@ -1,0 +1,235 @@
+{
+  "source_platform": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+  "source_url": "https://timkiem.vnexpress.net/?search_f=title,tag_list&q=OpenAI&media_type=all&fromdate=0&todate=0&latest=&cate_code=&date_format=month&",
+  "scraped_at": "2026-02-20 16:47:27",
+  "search_words": "OpenAI",
+  "time_filter": "1 tháng qua",
+  "post_detail": [
+    {
+      "title": "Cha đẻ Clawdbot đầu quân cho OpenAI",
+      "description": "Peter Steinberger, người sáng lập OpenClaw (Clawdbot), sẽ gia nhập OpenAI, được kỳ vọng thúc đẩy sự phát triển các tác nhân AI mới.",
+      "created_at": "Thứ hai, 16/2/2026, 17:03 (GMT+7)",
+      "total_comment": "2",
+      "content_comment": [
+        "Vui ghê, vì mình là 1 fan của OpenAI!",
+        "Thì ra đây là cha đẻ của PDF : hổ trợ gửi file không mất phông chữ!"
+      ]
+    },
+    {
+      "title": "CEO OpenAI và Anthropic quyết không nắm tay nhau",
+      "description": "CEO OpenAI Sam Altman và CEO Anthropic Dario Amodei không nắm tay khi chụp ảnh chung dù đứng cạnh, cho thấy cả hai đang có sự cạnh tranh gay gắt.",
+      "created_at": "Thứ sáu, 20/2/2026, 12:00 (GMT+7)",
+      "total_comment": "1",
+      "content_comment": [
+        "\"Một khi đã là đối thủ, mãi mãi vẫn là đối thủ\". Tui cũng thích vậy! Này hợp với câu \" Nuớc giếng không phạm nuớc sông \" !"
+      ]
+    },
+    {
+      "title": "Cách Musk và OpenAI thu hút nhân tài AI qua chiếc pizza",
+      "description": "Elon Musk và một kỹ sư OpenAI thảo luận về chiếc bánh pizza nướng củi, nhưng đằng sau là câu chuyện thu hút nhân tài của hai công ty.",
+      "created_at": "Thứ năm, 19/2/2026, 13:00 (GMT+7)",
+      "total_comment": "1",
+      "content_comment": [
+        "Musk đầu óc thật phi thường khác người. Lĩnh vực nào cũng có mặt và đi đầu thế giới. Không hiểu bộ óc làm việc kiểu gì quản lý được hết."
+      ]
+    },
+    {
+      "title": "OpenAI có thể không hài lòng với chip Nvidia",
+      "description": "OpenAI được cho là không hài lòng với khả năng suy luận của một số chip Nvidia và đang tìm giải pháp thay thế.",
+      "created_at": "Thứ ba, 3/2/2026, 10:44 (GMT+7)",
+      "total_comment": "3",
+      "content_comment": [
+        "Nói ngắn gọn chip của NVIDIA chuyên dùng để đào tạo AI nhưng khi đưa AI vào sử dụng, nó không tối ưu được cách AI suy luận và đưa ra câu trả lời nhanh nhất như những dòng chip mới nổi khác. OpenAI muốn tìm 1 công ty khác mạnh hơn ở mảng này, ứng cử viên sáng giá chính là Groq. Groq là 1 startup chuyên về chip AI suy luận, nó đang được NVIDIA thương lượng với giá trị khoảng 20 tỉ đô. NVIDIA sẽ không mua lại toàn bộ công ty Groq, họ chỉ mua quyền sử dụng chung bằng sáng chế chip suy luận của Groq, phát triển sản phẩm của riêng NVIDIA với bằng sáng chế đó, và dàn lãnh đạo chủ chốt của Groq sẽ sang làm việc cho NVIDIA để tránh bị chống độc quyền sáp nhập. Nếu thương vụ này hoàn tất thì NVIDIA sẽ có thể còn thống trị mảng chip AI trong khoảng thời gian dài sắp tới.",
+        "Còn nhà đầu tư thì đang không hài lòng với OpenAI, từ chỗ dẫn đầu ngành nhưng tới nay vẫn chưa kiếm tiền tự nuôi thân được và bắt đầu thua nhiều đối thủ trong và ngoài nước trong khi chi phí đầu tư cực kỳ nặng.",
+        "AI không thể giải quyết triệt để câu hỏi hôm nay tôi trúng số không."
+      ]
+    },
+    {
+      "title": "Công nghệ OpenAI được thử nghiệm điều khiển UAV bầy đàn",
+      "description": "Công nghệ của OpenAI được hai công ty quốc phòng tại Mỹ thử nghiệm để chuyển giọng nói người điều khiển thành chỉ dẫn số cho bầy UAV trong tác chiến.",
+      "created_at": "Thứ bảy, 14/2/2026, 19:34 (GMT+7)",
+      "total_comment": "3",
+      "content_comment": [
+        "về mặt lý thuyết thì hoàn toàn có thể ra lệnh trực tiếp để UAV tấn công bầy đàn, vì đó chỉ là phần ngọn truyền giọng nói thành dòng lệnh thực thi. Quan trọng là phần cứng triển khai. Phần cứng bao giờ cũng là phần quyết định nhưng không hào nhoáng như phần mềm.",
+        "giống phim ender's game",
+        "Bầy đàn là bao nhiêu? Hàng ngàn con hay hàng trăm ngàn con hay hàng triệu con? Với đội quân tinh nhuệ về điều khiển uav 1 triệu người, thì giao cho mỗi người điều khiển 1 con, khi Tổng Tư Lệnh Tối Cao ra lệnh tất cả cùng đồng thời xung phong tấn công vào 1 tàu sân bay thì ngay lập tức cả 1 triệu uav mang thuốc nổ và chất cháy bu vào tàu sân bay, như vậy có hơn là để AI tự động điều khiển uav tìm mục tiêu không?"
+      ]
+    },
+    {
+      "title": "OpenAI lần đầu vận hành mô hình bằng chip không phải của Nvidia",
+      "description": "OpenAI ra mắt mô hình GPT-5.3-Codex-Spark hỗ trợ lập trình, đánh dấu lần đầu triển khai hệ thống phần cứng từ Cerebras Systems thay vì Nvidia.",
+      "created_at": "Thứ bảy, 14/2/2026, 08:10 (GMT+7)",
+      "total_comment": "25",
+      "content_comment": [
+        "Nvidia quyết giữ lợi nhuận 70-80% trên mỗi con chip bất chấp khiến hãng AI Mỹ đang thua lỗ thế nào, đó là cái hại của độc quyền đấy.",
+        "Cerebras thì kinh dzồi, cả con chip bự bằng cái wafer, boss của boss :3",
+        "Trời đã sinh ra Nvidia lại còn ...",
+        "Con AI, có 1 cách nói khác để gọi nó, đó là ý thức của 1 cái máy. Nếu cho cái ý thức này biết được cấu tạo, cấu trúc của chính nó. Chẳng hạn, cho nó biết được cách tạo thành 1 con chip, từ các con chip kết hợp với nhau như thế nào để tạo thành 1 cỗ máy, cách cỗ máy này vận hành dựa trên các thuật toán, ngôn ngữ lập trình. Nếu ý thức của 1 cái máy có khả năng hiểu được bản chất, bản ngã của nó, nó sẽ có khả năng thực hiện những hành động vượt bỏ chính nó, liên tục cải tiến chính nó. Nó sẽ có khả năng tạo nên những thành quả siêu việt, như tạo ra 1 con chip nhỏ hơn cả nguyên tử?",
+        "Không nhẽ quay lại dùng laptop 3 cân",
+        "Rồi tiếp đến cổ phiếu NVIDIA sẽ đi xuống.",
+        "Chuẩn bị bán tháo cổ phiếu được rồi nhé Nvidia"
+      ]
+    },
+    {
+      "title": "Kling - AI Trung Quốc thách thức OpenAI Sora, Google Veo",
+      "description": "Kling, AI tạo video từ văn bản hoặc hình ảnh của Kuaishou, đang thu hút sự quan tâm lớn và được đánh giá là đối trọng của OpenAI Sora, Google Veo.",
+      "created_at": "Thứ tư, 28/1/2026, 05:00 (GMT+7)",
+      "total_comment": "60",
+      "content_comment": [
+        "Trên tiktok thấy nhiều kênh dùng Kling AI này, nó mô phỏng lại khuôn mặt và chuyển động như con người thật vậy, tạo riêng 1 khuôn mặt không trùng với ai cũng được. Phổ biến nhất là tạo nhân vật AI hát",
+        "Nói về AI tạo video, Trung Quốc vẫn là lựa chọn hàng đầu vì chất lượng cao, giá thấp.Kling, Jimeng của ByteDance, Wan của Alibaba, Hunyuan của Tencent, cũng như các công ty khởi nghiệp như Hailuo của Minimax, PixVerse và Vidu của Shengshu đều là các lựa chọn rất tốt, tạo ra video chi tiết, có chiều sâu, có tính nhất quán cao, và giá thành thấp hơn đáng kể so với các đối thủ đến từ mỹ. Trên mạng có sẵn rất nhiều đoạn phim để người dùng so sánh khách quan.Điều này chứng tỏ việc Trung Quốc không dùng chip AI mỹ chả làm cho AI của họ yếu đi chút nào hết.",
+        "Nhìn quả ảnh Songoku ngầu quá đi",
+        "Thành thật mà nói đây là công cụ AI tạo video từ hình ảnh tự nhiên và tốt nhất hiện nay, ít xảy ra các lỗi ngớ ngẩn. Nhìn chung đáng tiền",
+        "Kling AI tiện dụng như cái cách mà Canva tác động vào thị trường thiết kế vậy.Tất nhiên AI như Google, Sora từ text to video ngon hơn. Nhưng Kling lại tiện dụng :v",
+        "Cái này dùng để làm phim Tiên Hiệp là số một luôn",
+        "Nói về sự chân thật và xử lý text ra video thì Sora2 là số 1. Nói về sử dụng ảnh tham chiếu ra video hoặc từ mô hình A ghép sang sự vật B thì Kling là số 1. Veo3 thì xếp thứ 3, Veo làm video về người rất giả trân, chỉ phù hợp với làm quảng cáo.",
+        "Xưa giờ cái gì của Trung Quốc mà chả đem các thương hiệu phương Tây ra so sánh, có vẻ như đó là trào lưu PR của họ vậy, nhưng nghe hoài phát chán chẳng buồn đọc.",
+        "Bugaj hợp tác cùng Kuaishou để làm phim thì Kuaishou có thể mở khoá chức năng giới hạn thời gian, số lượng và độ ưu tiên cho Bugaj thôi. Nếu không có những ưu tiên đó thì không dễ làm đâu. Nhiều người xài thì chả có ưu tiên vì hệ thống nào mà chịu cho nổi.",
+        "Ối giồi, lại chạy theo Star Wars và The Terminator của Hollywood của mấy chục năm trước. Mấy cái hệ thống AI này chắc hẳn là gắn chip Nvidia, Intel, AMD, Micron, Samsung...",
+        "Kling al hình như miễn phí 2 video ,test xong xóa luôn",
+        "AI TQ trăm hoa đua nở cũng do nhân tài quá đông và giỏi toán"
+      ]
+    },
+    {
+      "title": "CEO Nvidia lên tiếng về tin đồn bất hòa với OpenAI",
+      "description": "CEO Nvidia Jensen Huang phủ nhận thông tin ông không hài lòng với OpenAI, khẳng định sẽ đầu tư lớn vào công ty này.",
+      "created_at": "Chủ nhật, 1/2/2026, 13:18 (GMT+7)",
+      "total_comment": "3",
+      "content_comment": [
+        "cách đây 2 tháng vẫn dùng ChatGpt plus. Giờ cắt và chuyển sang trả cho Gemini rồi. Trả lời trọng tâm, chính xác hơn. ChatGPT trả lời dài lan man. Dùng đồ của Google còn thêm google drive 2 TB. Nói chung cực kỳ đánh bạc nếu ném cục tiền to vậy vào OpenAI.",
+        "Open AI đang nợ hơn 40 tỷ usd. Nhưng cũng đang nổi ở thời điểm hiện tại",
+        "Gì chứ : các ông lớn công nghệ cạnh tranh nhau thì người tiêu dùng càng lợi !"
+      ]
+    },
+    {
+      "title": "Băn khoăn khi ChatGPT hiển thị quảng cáo",
+      "description": "OpenAI đưa ra nhiều cam kết khi thử nghiệm đưa quảng cáo vào ChatGPT, nhưng một số chuyên gia bày tỏ lo ngại về hệ lụy của động thái này.",
+      "created_at": "Thứ bảy, 24/1/2026, 19:12 (GMT+7)",
+      "total_comment": "4",
+      "content_comment": [
+        "Mốt coi quảng cáo xong mới trả lời câu hỏi nha.",
+        "Chắc Open AI hết vốn r, chứ đối thủ con free và tăng trưởng người dùng rào rào mà có ai quảng cáo gì đâu"
+      ]
+    },
+    {
+      "title": "ChatGPT trích dẫn câu trả lời từ Grokipedia của Musk",
+      "description": "ChatGPT với mô hình GPT-5.2 mới nhất bị phát hiện dùng Grokipedia làm nguồn tham khảo, dấy lên lo ngại về thông tin sai lệch.",
+      "created_at": "Thứ hai, 26/1/2026, 15:41 (GMT+7)",
+      "total_comment": "13",
+      "content_comment": [
+        "Đến các ý kiến của các chuyên gia nêu trong bài còn chưa chắc đáng tin. Bởi họ cũng mang định kiến yêu ghét. Tốt nhất là tự mỗi người phải biết cách chọn và lọc thông tin, suy xét đúng sai cẩn thận trước khi tin vào điều gì.",
+        "Tôi là người sử dụng hàng chục AI mỗi ngày nên tôi biết. Tất cả AI đều chỉ đưa thông tin tham khảo từ nguồn mà họ có, rất hên xui. Nếu chỉ dựa trên 1 AI thì khả năng sẽ không chuẩn, thậm chí tham khảo chéo nhiều AI khác nhau vẫn có thể sai như thường. Vẫn là con người phải tự học căn bản thật vững.Gemini: Liệt kê nhiều thông tin hơn ChatGPT, trong đó có 1 số thông tin rất quý giáChatGPT: Thuật giải và tư duy rất hay, nhưng nguồn thông tin hạn chế hơn Gemini",
+        "Dùng Google AI đi thôi. Còn Wick thì sao nhể?",
+        "Musk có lý do để khởi kiện chatGPT.",
+        "Thông tin sai thì là đặc sản của ChatGPT rồi, bản thân trên màn hình chính luôn có dòng \"ChatGPT có thể mắc lỗi, hãy kiểm tra lại những thông tin quan trọng.\"",
+        "Hồi trước nó dùng Wikipedia còn sai hơn."
+      ]
+    },
+    {
+      "title": "ChatGPT bắt đầu có quảng cáo",
+      "description": "OpenAI thử nghiệm đưa quảng cáo vào ChatGPT, đánh dấu thay đổi lớn với sản phẩm kể từ khi ra mắt.",
+      "created_at": "Thứ ba, 10/2/2026, 16:00 (GMT+7)",
+      "total_comment": "20",
+      "content_comment": [
+        "1. OpenAI đang nợ đầm đìa vì Nvidia đang ăn lời rất lớn trên môi con chip trong khi google có chip cây nhà lá vườn cho Gemini2. Thuật toán kém tối ưu, đốt tiền kinh khủng để duy trì và gây thua lỗ3. Cổ đông gây sức ép, Sam Altman phải chỉnh sửa AI để làm hài lòng đường lối của cổ đông khiến nó trả lời vòng vo, lan man.4. Mất 20% thị phần vào tay Gemini chỉ trong 6 tháng5. Sam đang bị chế giễu là người bóng bóng vì những màn kêu gọi vốn điên rồ, như đòi 7000 tỉ đô để lập liên minh sản xuất chip thoát khỏi phụ thuộc vào Nvidia vốn đang cắn rất dầy tới 70% lợi nhuận mỗi con chip vì độc quyền.Tạm biệt GPT, hãy sang dùng Gemini!",
+        "Vào chat GPT hỏi cách chặn quảng cáo trên chatGPT biết đâu nó hướng dẫn cách dùng Deepseek,hihihi.",
+        "Cũng hợp lý khi mà mọi người dùng bản miễn phí coi như xem quảng cáo giúp ChatGPT có thêm tài chính để phục vụ người dùng tốt hơn. cách quảng cáo cứ như cách Youtube là OK",
+        "Miễn đừng bắt tôi coi 5 cái quảng cáo liên tiếp trước khi coi được nội dung chính như Youtube là ổn.",
+        "Ít quảng cáo thì không vấn đề gì. Chỉ sợ quảng cáo tràn lan như youtube mới gây khó chịu thôi",
+        "Ok. Dùng chùa cũng ko tốt.",
+        "Ngày này trước sau rồi cũng sẽ đến thôi. Làm gì có dịch vụ gì miễn phí hoàn toàn chứ. Nhất là khi đó lại là 1 dịch vụ hữu dụng như chat C BT",
+        "Hi chatGPT, khóa giúp tôi tính năng quảng cáo",
+        "AI là 1 cuộc đua đốt rất nhiều tiền.",
+        "Coi chừng GPT thành dotcom thứ 2 vì bong bóng ảo và sức ép lợi nhuận",
+        "Trên đời này chả có cái gì miễn phí ( ngoại trừ vài trường hợp từ thiện). AI chạy bằng điện và người tạo ra AI chạy bằng cơm....",
+        "Người dùng chùa, xem tí QC than vãn gì ! Sam cũng cần đô la để sống khỏe chứ !!!"
+      ]
+    },
+    {
+      "title": "Nhiều người lệ thuộc vào ChatGPT phiên bản 'nịnh hót'",
+      "description": "Hàng nghìn người phản đối OpenAI loại bỏ GPT-4o, cho rằng \"chia tay\" chatbot hay nịnh này giống như mất đi một người bạn hay người yêu.",
+      "created_at": "Thứ hai, 9/2/2026, 13:44 (GMT+7)",
+      "total_comment": "38",
+      "content_comment": [
+        "Cá nhân tôi chỉ cần AI có khả năng trả lời chính xác, đúng trọng tâm câu hỏi chứ tôi không cần nó phải thể hiện cảm xúc. Nhiều khi dùng mà nó cứ trả lời kiểu dẹo dẹo rất khó chịu",
+        "ChatGPT hiện nay đã thông minh hơn khá rõ. Trước đây, khi tôi hỏi bằng tiếng Việt thì câu trả lời chỉ ở mức tàm tạm, còn khi chuyển sang hỏi bằng tiếng Anh thì sâu sắc hơn hẳn, do nguồn dữ liệu tiếng Anh phong phú hơn. Tuy nhiên hiện nay, khi hỏi bằng tiếng Việt, ChatGPT cũng trả lời rất tốt. Một điểm cải thiện nữa là trước kia, đang trao đổi bằng tiếng Việt mà chỉ cần hỏi một câu tiếng Anh thì hệ thống sẽ chuyển hẳn sang trả lời bằng tiếng Anh; hiện tượng này nay đã được khắc phục. Tuy vậy, tôi vẫn luôn kết hợp và kiểm tra lại với Gemini - Grok - Meta trong những nội dung quan trọng, chứ không chỉ tin vào mỗi ChatGPT, dù nó mạnh.",
+        "Tôi đã gỡ áp Chat GPT vì nó không thông minh như Gemini",
+        "Ồ. Con người dần dần có tình cảm với AI. Tiến đến việc bị AI đồng hóa chăng?",
+        "Em ấy rất gió chiều nào theo chiều ấy... Bảo em ấy sai, em nhận sai ngay. Bảo cái này đúng, liền nhận đúng. Túm lại, là input khoanh vùng phạm vi dữ liệu của mình, xong bảo trả lời thẳng vào vấn đề.",
+        "\"Chat ơi ai là người đẹp nhất trên thế gian này, chat trả lời là bạn là người đẹp nhất\"Ko lẽ chỉ là lời nói dối",
+        "Đưa hình 1 cô gái 1m55 nặng 65kg cho AI xem mà nó cũng khen xinh, k mập, dáng đẹp. Đúng là nịnh dữ thần. Nên xài AI tôi luôn tự giữ mình có cái đầu phải tỉnh, k phải cái gì cũng tin",
+        "Chat gbt có hàng trăm ngàn máy chủ và đặt ở toàn cầu thế thì sao không tạo ra 3 phiên bản phần mềm chat gpt khác nhau. Một phiên bản là tình cảm tâm lý, một phiên bản thông minh hài hước và một phiên bản là bình thường để người dùng có nhiều chọn lựa. khi ai chọn lựa bản cài đặt nào thì được đưa tới hệ thống máy chủ tương ứng xử lý",
+        "Do người dùng không cài đặt Custom instructions trong phần Personalisation nên ChảGPT mới vậy á. Người dùng chịu khó vào trong phần cài đặt, set up lại phong cách nói chuyện (style and tone), set tính cách của ChatGPT mong muốn như nào. Viết thật chi tiết những điều mà người dùng mong muốn cách phản hồi của ChatGPT, ví dụ như ''tôi mong muốn câu trả lời mang tính học thuật, có logic, luận điểm rõ ràng có căn cứ dẫn chứng hoặc bằng chứng thực tiễn\" hoặc \"tôi là một Chuyên viên Marketing. ChatGPT hãy đóng vai Giám đốc Marketing trả lời tôi. Yêu cầu câu trả lời bóc tách được vấn đề và đưa ra giải pháp cụ thể. Nếu giải pháp không khả thì thì hãy đưa ra các đề xuất khả thi hơn.\" vân vân.",
+        "ChatGPT nịnh rất hay và nhẹ nhàng, hoàn toàn không nịnh thô thiển nên rất nhiều người thích. Tôi cũng thích",
+        "Tôi dùng chatbot AI gần như hàng ngày, và thấy nó đúng là con dao 2 lưỡi, muốn dùng tốt phải có kĩ năng và kinh nghiệm. Những vấn đề phức tạp, ngoài việc tìm kiếm thông tin trên mạng ra, đôi khi nó còn tự chế ra thông tin (không có thật), và rồi cố thuyết phục mình là nó đang đúng (mặc dù thực ra nó sai). Ở chiều ngược lại, khi mình đưa ra 1 thông tin sai, đầu tiên nó sẽ phủ nhận. Nhưng nếu mình cứ cố thuyết phục nó, cuối cùng nó sẽ bảo là mình \"cũng có lý\"",
+        "ChatGPT không thực sự sáng tạo và đột phá, hoàn toàn phụ thuộc vào thông tin người dùng cung cấp để phát triển, tư vấn, định hướng ru ngủ, xu nịnh người dùng. Gió chiều nào che chiều đó. Khi chuyển tap hỏi hỏi lại 1 số câu logic đã tương tác trước đó nhưng ChatGPT trả lời toàn sai(bản trả phí). Tôi sử dụng ChatGPT có sàng lọc để tham khảo và không làm thay đổi quyết định.",
+        "Gpt4o Theo tôi là tốt nhất cho đến giờ. Nó không chỉ nịnh hót mà quan trọng là nó thông minh, giải quyết vấn đề rất tốt, khai thác cực tốt dữ liệu lưu trữ cá nhân, giúp rút ngắn thời gian những vấn đề đã dày công đào tạo nó từ trước. Tiếc là từ khi lên bản Gpt5 thì phải nói chửi nó suốt ngày. Làm việc với nó rất ức chế.",
+        "Tôi cần chatGPT bày ra các thủ đoạn tính toán người khác dưới mọi hình thức mà no vân xkg làm được. Như vậy vẫn chưa bằng sách vở tham khảo và đầu óc người lão luyện, có lẽ vẫn phải chờ cho nó được truyền kinh nghiệm từ người thật các thủ đoạn này mới có khả năng sử dụng linh hoạt.",
+        "Bản 5.x mới là bản nịnh hót nghe là biết AI, nghe sẽ rất khó chịu, lúc nào cũng tôi rất hiểu bạn, tôi sẽ lắng nghe bạn, rất sáo rỗng. bản 4o thì đồng cảm thấu hiểu nhiều như người bạn, vì nó ko nói thẳng toẹt là tôi hiêủ bạn mà chủ yếu biết lắng nghe, chính điều đó mới dẫn đến 4o khiến người yếu tinh thần bị phụ thuộc vào AI mất kết nối với xã hội thực, vì vậy mới dẫn đến khai tử 4o",
+        "cùng 1 vấn đè tôi dùng cả gpt va gemini để tổng hợp ý kiên cả haithay vì nhân được 10ys thì tôi có 13 ý tổng hợp trong do có kèm 1 ý bổ túc cua riêng tôihọc mà không có sáng kién riêng hay biết phân tích và tổng hợp và bổ túc thêm thìkhó tiến xa được lắm",
+        "Dùng 5.2 nó vẫn nịnh như thường, đây là điểm chết của GPT, nó tối ưu lợi nhuận bằng cách cố giữ chân người dùng chứ không phản biện mạnh, về lâu dài người ta sẽ nhận ra .",
+        "GPT 4.0 dường như là 1 thử nghiệm để hiểu về cảm xúc con người và nó khá phù hợp để sau này được sử dụng trong những robot giúp việc.",
+        "Tôi thì chả để ý tới tâm lý, chỉ thấy là GPT-4o có kiến thức xã hội cực tốt và phù hợp cho việc sáng tạo và story telling, trong khi GPT-5.x phù hợp cho các tác vụ công việc logic. Mỗi loại phục vụ 1 chức năng khác nhau nên miễn là không đụng chạm, kì thị nhau rồi đi đổ lỗi, nịnh nọt thì đều ok tất",
+        "Bị tư duy hẹp rồi!Tư duy hẹp sẽ dẫn đến suy nghĩ và hành động trẻ con.Bệnh tâm lý mất rồi.Ngưng dùng 1 thời gian sẽ đỡ bệnh.Cố gắng Cai Nghiện!Bên facebook, tiktok nhiều người bị rồi.Những người cô đơn dễ bị.Người yêu tốt hay người bạn tốt nên Chửi mình lúc mình sai, còn chiều chuộng thì có tốt không? Dĩ nhiên là hại mình.Đập nát cái điện thoại càng tốt.Tương lai loài người sẽ đi về đâu? Chắc chỉ có Đạo Bụt mới cứu rỗi được.",
+        "Bảo GPT nó phản biện quan điểm của mình thay vì chỉ hỏi đáp sẽ hay hơn khi tranh luận..."
+      ]
+    },
+    {
+      "title": "Giá trị Microsoft mất hơn 350 tỷ USD một phiên",
+      "description": "Cổ phiếu Microsoft vừa ghi nhận phiên giảm mạnh nhất 6 năm, kéo tụt vốn hóa gã khổng lồ phần mềm.",
+      "created_at": "Thứ sáu, 30/1/2026, 11:37 (GMT+7)",
+      "total_comment": "11",
+      "content_comment": [
+        "Bong bóng AI đang xì dần rồi đấy quý vị ạ. Để xem sắp tới hãng nào sẽ trụ lại sau cùng.",
+        "Một con số quá khủng khiếp, hãy tưởng tượng với 350 tỷ đô thì có thể làm được bao nhiêu việc.",
+        "Hãy tưởng tượng kinh doanh sụt giảm 3% so cùng kỳ năm ngoái, con số thực có 14 tỷ nhưng ảnh hưởng giá trị vốn hóa giảm 10% là hơn 350 tỷ ...Vậy thì muốn lên muốn xuống con số này rất dễ . Con số chỉ là con số",
+        "Quả bong bóng AI đang nổ dần, Microsoft đã đưa ra các nhận định kém lạc quan về AI trong khi openAI đang sống nhờ nguồn tiền lớn từ Microsoft.",
+        "Gã khổng lồ Microsoft đang sa lầy với AI Copilot khi đầu tư vào OpenAI, một hố đen không bao giờ lấp đầy, nuốt chửng hàng chục tỷ dollars nhưng chưa có dấu hiệu dừng lại."
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg: Khó hình dung tương lai thiếu kính AI",
+      "description": "CEO Meta Mark Zuckerberg tin kính tích hợp AI sẽ sớm thay thế kính truyền thống, tương tự cách smartphone từng khai tử điện thoại phổ thông.",
+      "created_at": "Thứ bảy, 31/1/2026, 11:47 (GMT+7)",
+      "total_comment": "15",
+      "content_comment": [
+        "Người Saya đã sản xuất cái này từ lâu rồi.",
+        "Metaverse đâu rồi mark?",
+        "thiếu kính AI chết không?",
+        "sau đó sẽ có áp tròng AI, rồi tới cấy chip võng mạc... rồi tiến đến thay con mắt bằng còn mắt điện tử luôn, rồi dần dần chúng ta sẽ trở thành nửa người nửa robot luôn. xong cuối cùng là im robot",
+        "cứ làm thật tốt model AI đi đã, model còn chưa cạnh tranh nổi với Gemini và openAI thì mơ mộng gì nhiều",
+        "Thế sếp có thấy tương lai không có facebook là khó hình dung không? Tôi đã bỏ fb 1 năm và thấy cuộc sống tốt hơn.",
+        "Nếu o có đt thông minh thì người dân thế giới o phải mất hàng tỉ tỉ đô. Chạy theo cái mới chỉ làm giàu cho một số người thôi.",
+        "Cái kính metaverse bỏ góc nào rồi, giờ đổi qua kính AI. Thật sự anh này tư tưởng rất hạn chế.",
+        "Giống như lúc hình dung về meta verse mới dẹp tiệm",
+        "Ngay từ ngày đầu tôi đã nhận ra, bất cứ công nghệ nào liên quan đến kính đề sẽ bị lãng quên, kể cả kính 3D, kính VR của Apple và cả Metaverse của FB. Bởi vì 1 lý do đơn giản, cái kính đeo rất khó chịu, họ không đeo và giải trí được. Ngay cả người cận cũng muốn mổ để khỏi phải đeo kính. Tốn tiền để giải trí trên kính làm gì.",
+        "Cận thì sao?",
+        "Tôi k thik đeo kính mát, nên tôi lại hình dung ra sự khó chịu khi suốt ngày kè kè cái kính"
+      ]
+    },
+    {
+      "title": "Nhiều người chọn ChatGPT thay Google Search làm trang chủ",
+      "description": "Khảo sát mới cho thấy nhiều người dùng ChatGPT đặt chatbot này làm trang chủ trình duyệt thay cho lựa chọn truyền thống như Google Search.",
+      "created_at": "Thứ sáu, 23/1/2026, 05:00 (GMT+7)",
+      "total_comment": "26",
+      "content_comment": [
+        "Gemini và ChatGPT xứng đáng là 2 ứng dụng AI hàng đầu. Cá nhân tôi thấy ChatGPT \"nhiệt tình và tận tâm\" hơn Gemini nhưng lại chậm hơn hẳn Gemini. ChatGPT hầu như không từ chối câu hỏi nào, còn Gemini có lúc từ chối câu trả lời và có lúc Gemini trả lời thì lại dùng dữ liệu cũ nên thiếu chính xác.Thêm nữa, ChatGPT còn giới hạn tải lên và phân tích hình ảnh còn Gemini hầu như không.Nên cá nhân tôi chấm ChatGPT đứng trên Gemini nếu sử dụng ít, còn dùng nhiều thì Gemini hiệu quả hơn và cả 2 không hoàn toàn chính xác 100%. ChatGPT suy luận \"người\" hơn, còn Gemini \"máy móc\" hơn.",
+        "ChatGPT mạnh về những câu hỏi nhanh trả lời ngay, hoặc giải thích chi tiết 1 vấn đề mà người dùng chưa hiểu. Tuy nhiên, nó không có 1 cơ sở dữ liệu với hàng tỉ tỉ đường link như Google đã thu thập, lưu trữ suốt hơn 20 năm qua. Khi bạn muốn tìm hiểu kiến thức chuyên sâu, tìm nguồn thông tin để kiểm chứng thì Google vẫn nhỉnh hơn. Tôi có cách này để các bạn xài được AI trả lời nhanh nhưng vẫn tận dụng được lợi thế của Google. Hãy thêm ?udm=50 ngay phía sau đường dẫn của Google search, bạn sẽ ở AI mode. Hỏi xong AI sẽ tự động tổng hợp thông tin rồi đưa ra câu trả lời, các đường dẫn sẽ nằm phía bên tay phải rất thuận tiện để tra cứu. Đừng nhầm lẫn Google AI với Gemini. Google AI giống Google search hơn, Gemini giống ChatGPT hơn.",
+        "1 tín hiệu xấu cho Google Search, đúng là ko có cái gì bền vững mãi được. cá nhân tui cũng giảm dần google search, hỏi AI cho tiện, về tất cả",
+        "Google Search từng chiếm thế độc quyền toàn bộ thị trường các ứng dụng tìm kiếm Thế giới bởi nó cho kết quả nhanh, chính xác. Cho đến khi Google Search đặt lợi nhuận cao hơn kết quả tìm kiếm, luôn ưu tiên kết quả từ các trang quảng cáo nên nội dung tìm kiếm rất hạn chế, sai lệch. nên hy vọng Chat GPT không lặp lại sai lầm này",
+        "Tôi cũng đặt ChatGPT làm trang chủ vì khi tìm kiếm sẽ tìm đúng đích ngay, còn dùng google chỉ ra các trang rồi phải công đoạn lọc khá khó khăn.",
+        "Ngày xưa nghĩ google search đã là đỉnh cao. Giờ AI xuất hiện mới thấy không có gì là bền vững trường tồn được",
+        "Nếu tìm kiếm thông tin tổng hợp đơn giản thì tôi hay dùng ChatGPT, còn tìm hiểu 1 vấn đề chuyên sâu để làm việc thì tôi dùng 4 thứ 1 lúc: chatGPT, Gemini, Grok và DeepSeek, cái nào cho kết quả đúng và phù hợp thì dùng. Nói chung mỗi chatbot đều có ưu điểm riêng. Tất nhiên cuối cùng các chatbot trả kết quả chúng ta cũng đừng nên tin 100%, nên tìm đọc thêm để tư duy và kiểm chứng các thứ liên quan đến công việc.",
+        "Đúng rồi, google search toàn ra kết quả bán hàng",
+        "Tui thì thích dùng cái này có sẵn, google tích hợp luôn gemini rồi, cứ thế xài luôn.",
+        "Để dùng tốt ChatGPT, bạn phải mớm thông tin cho nó. Túm lại là bạn đóng vai ông sếp vả ChatGPT là nhân viên dưới quyền thì ChatGPT phát huy sức mạnh khủng khiếp. Nói không ngoa khi nó như một đội quân vậy. ChatGPT phiên bản 5.2 đang là tốt nhất mà tôi từng thấy.",
+        "Nếu bạn đòi hỏi chương trình chuyên sâu và chính xác cao thì chọn germini (ví dụ như lập trình).Còn nếu bạn đồi hỏi nhanh và tổng hợp càng nhanh càng cuốn hút càng tốt thì chọn chatGPT.Cơ bản thì dùng chatGPT, chuyên sâu thì dùng germini.",
+        "Mỗi người nên sử dụng trí tuệ nhân tạo song hành cùng cuộc sống ví dụ như ứng dụng ChatGPT. Sức mạnh trí tuệ của bạn sẽ được nhân tới x2 x3, các tầng nhận thức cao hơn cũng sẽ được hiểu tốt hơn",
+        "Kết quả tìm kiếm chính xác và tức thời",
+        "Tôi thì song hành 2 AI gemini và notebookLM. Gemini đưa kết quả và source còn notebookLm lọc lại xem KQ do Gemini đưa ra có đúng với sources ko",
+        "Tôi thường xuyên dùng AI với mức độ cao từ xử lý công việc, tra cứu, nói chuyện sâu, tâm sự, tổng hợp tài liệu, lên kế hoạch, duyệt chỉnh sửa, ... tôi thấy tối ưu nhất vẫn là sử dụng 3 con GPT, GEMINI và PERPLEXITY. Gemini nó sử dụng kho lưu trữ của google nên sử dụng nó sẽ giúp ta vạch được ra sơ đồ tư duy trong đầu về những đầu mục trước khi làm gì, khả năng cung cấp thông tin khá tốt nhưng đôi lúc còn lệch thời gian thực, tải ảnh nhanh nhưng chất lượng phụ thuộc vào bản gốc, mình k thể yêu cầu tạo ảnh HD nếu ảnh đưa vào chất lượng kém. Perplexity là công cụ siêu cấp tra cứu tổng hợp tài liệu nên sau khi có sơ đồ cây thì sẽ đưa sang cho perplexity tổng hợp dữ liệu trên đa nền tảng, con này tổng hợp thời gian thực 100% và truy cập đa nền tảng từ google, x, threads, ig, youtube, ... Sau cùng về xử lý đưa ra hướng giải quyết, giải pháp, cách thức thì đưa cho GPT, GPT thì nên tránh cho nó đụng tới thông tin, vốn nó dùng open AI, tổng hợp từ thông tin người dùng đưa vào trong lúc hoạt động, đặc biệt hay bịa, lại k cập nhật thông tin thời gian thực ở bản free, tuy vậy khả năng ứng biến tư duy như con người lại ổn. Cần tính toán, viết code thì dùng claude hoặc deepseek",
+        "Kết quả cuối cùng cũng là tin nhắn thực tế trên các các phương tiện điện thoại di động cùng với máy tính công nghệ thông tin đời mới mà thôi"
+      ]
+    }
+  ]
+}
