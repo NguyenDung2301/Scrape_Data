@@ -9,7 +9,8 @@ from datetime import datetime
 
 driver = webdriver.Chrome()
 
-source_url = "https://timkiem.vnexpress.net/?search_f=title,tag_list&q=OpenAI&media_type=all&fromdate=0&todate=0&latest=&cate_code=&date_format=month&"
+# Gán link tìm kiếm
+source_url = "https://timkiem.vnexpress.net/?search_f=title,tag_list&q=Gemini&media_type=all&fromdate=&todate=&latest=&cate_code=&date_format=year&"
 
 driver.get(source_url)
 
@@ -155,7 +156,7 @@ for idx, post in enumerate(posts_info):
 driver.quit()
 
 # Lưu dữ liệu vào file JSON
-output_file = "scraped_data.json"
+output_file = "scraped_data2.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
