@@ -1,7 +1,15 @@
-SCRAPE_DATA TỪ VN-EXPRESS
+Hướng dẫn sử dụng
 
-1. main.py: file mẫu để in ra data
+0. Cài đặt thư viện trong requirements.txt
 
-2. scrape_to_json.py: file cào data sau đó lưu vào scraped_data.json
+1. Chạy terminal: python scrape_from_VN-EP.py
+--> Tạo file raw_data_VN-EP.json
 
-3. scraped_data.json: file data đã được cào
+2. Chạy terminal: python clean_data_nlp.py raw_data_VN-EP.json
+--> Tạo file cleaned_data_VN-EP.json
+
+3. Chạy terminal: python filter_data.py cleaned_data_VN-EP.json
+--> Tạo file filtered_data_VN-EP.json
+
+4. Chạy terminal: python ner_articles.py filtered_data_VN-EP.json
+--> Tạo file ner_data_VN-EP.json

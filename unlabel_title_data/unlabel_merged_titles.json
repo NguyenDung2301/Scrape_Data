@@ -1,0 +1,4082 @@
+[
+  {
+    "title": "Máy tính lượng tử sẽ sớm phá vỡ Bitcoin",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sàn tài sản số: An ninh, an toàn là yếu tố then chốt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Meta và Google bị phạt vì nền tảng mạng xã hội gây nghiện cho người dùng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "iOS 27 sẽ giúp trợ lý ảo Siri \"lột xác\"",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "OpenAI bất ngờ thông báo dừng ứng dụng Sora",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giải bài toán thiết bị đầu cuối để sớm hoàn thiện hệ sinh thái IPv6 đồng bộ",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cập nhật iOS 26.4 để sửa hàng loạt lỗi trên iPhone",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Ngôi sao điện ảnh đã qua đời được “hồi sinh” để đóng phim mới nhờ AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Apple chốt ngày ra mắt iOS 27",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cảnh báo rủi ro bẫy tài chính từ các dự án DeFi rác",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sàn giao dịch ONUS không thể truy cập, người dùng hoảng loạn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Fanpage Grab nhận bão \"phẫn nộ\" sau vụ tài xế bị nhạc sĩ Minh Khang dọa đấm",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trạm mặt đất Internet Starlink tại Việt Nam xuất hiện trên bản đồ vệ tinh",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thành lập Viện Công nghệ Bản quyền và Tài sản số",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sàn Giao dịch Công nghệ TPHCM ra mắt phiên bản mới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tốc độ Internet Việt Nam lọt top 9 quốc gia nhanh nhất thế giới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Xbrain trở thành trung tâm vận hành điện toán đám mây và AI của TechX tại Đà Nẵng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Mạng xã hội X hoạt động trở lại, chưa rõ nguyên nhân gây ra sự cố",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Mạng xã hội X bị sập trên toàn cầu",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giá cước 2,2 triệu đồng/tháng, Internet Starlink sẽ cạnh tranh ra sao?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Google Maps cập nhật địa giới hành chính mới của Việt Nam sau sáp nhập",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM đặt mục tiêu phủ sóng 5G trên 95% địa bàn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tim Cook phản hồi về tin đồn nghỉ hưu",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nvidia ra mắt nền tảng kiểm soát AI tự hành cho doanh nghiệp",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "AI bùng nổ, trung tâm dữ liệu và điện toán đám mây bước vào giai đoạn tái định nghĩa",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Gói gọn trạm phát Internet vệ tinh Starlink vào chiếc balo cá nhân",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người đàn ông sử dụng thiết bị kích sóng gây nhiễu bị xử phạt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Để sử dụng Internet vệ tinh Starlink, người Việt phải chi gần 12 triệu đồng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Làn sóng sa thải nhân sự toàn cầu dưới cái bóng của AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Flezi Flow: Giải pháp AI tư vấn dược được thương mại hóa bản quyền ra quốc tế",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Pi Network lại gây thất vọng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nền tảng tiết kiệm triệu USD bắt đầu từ dòng code trên giấy của kỹ sư Việt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "AI trở thành trợ thủ đắc lực cho tội phạm mạng khi tấn công quy mô lớn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "AI bùng nổ đẩy thương mại toàn cầu tăng vọt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM thúc đẩy hạ tầng AI với dự án trung tâm dữ liệu 2,1 tỷ USD",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM xác định dữ liệu là hạ tầng chiến lược",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đồng Bitcoin thứ 20 triệu đã được đào",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "AI tại Việt Nam chuyển mình từ thử nghiệm sang tạo ra giá trị thực",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "\"Ông lớn\" viễn thông đồng loạt tăng giá cước Internet cố định",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Những hành vi sử dụng AI bị nghiêm cấm tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "NamiTech ứng dụng AI hỗ trợ doanh nghiệp bảo hiểm trong tư vấn khách hàng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Báo Dân trí đạt giải thưởng báo chí viết về Nghị quyết 57",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Luật AI 2025: \"Lá chắn\" bảo vệ văn hóa và chủ quyền số quốc gia",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tốc độ mạng 5G Việt Nam tăng cao",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Chuyên gia nhận định camera AI là rủi ro an ninh trong vụ không kích Tehran",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hình ảnh, video do AI tạo ra bắt buộc phải gắn dấu hiệu nhận biết",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "MWC 2026: Viettel công bố lộ trình thúc đẩy 6G",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Vị thế con người trong nỗ lực xác lập chủ quyền đạo đức trước AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM đề nghị 3 nhà mạng nghiên cứu thử nghiệm 6G",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thêm một quốc gia có kế hoạch cấm trẻ em dưới 15 tuổi sử dụng mạng xã hội",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tên miền “.vn” lần đầu tiên được tổ chức đấu giá",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cáp quang biển nối Internet Việt Nam đi quốc tế gặp sự cố đầu năm Bính Ngọ",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giá Bitcoin lao dốc, tâm lý nhà đầu tư xuống mức thấp nhất lịch sử",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM nghiên cứu thí điểm mạng 6G trong năm nay",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cảnh báo gây sốc: AI đang triệt tiêu thế hệ thiên tài tương lai",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người dùng phải trả bao nhiêu tiền để sử dụng Internet vệ tinh Starlink?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hé lộ 3 địa phương đặt trạm Internet vệ tinh Starlink tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nhiều người bị chặn bình luận trên YouTube",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Quảng cáo video trên mạng không được ép người dùng xem quá 5 giây",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "YouTube gặp sự cố diện rộng toàn cầu sáng mùng 2 Tết",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Với Internet vệ tinh, Việt Nam sở hữu thứ không phải quốc gia nào cũng có",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Chuyên gia dự báo Bitcoin có thể giảm về 50.000 USD",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Internet vệ tinh của tỷ phú Elon Musk được cấp phép tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thế giới trong tương lai với một tỷ robot hình người, Việt Nam sẽ ở đâu?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM khai trương tuyến bưu chính UAV xuyên biển đầu tiên",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người Việt lên Google tìm kiếm gì trong dịp Tết Nguyên đán?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TikTok bị cáo buộc thuật toán gây nghiện người dùng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sàn tiền số tặng nhầm 620.000 Bitcoin cho người dùng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hướng dẫn tạo bộ ảnh đầy nghệ thuật cho ngày Tết bằng AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Việt Nam có siêu máy tính mới nhất của NVIDIA",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Báo Dân trí đạt giải thưởng báo chí về khoa học công nghệ, đổi mới sáng tạo",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hướng dẫn dùng AI lựa chọn mái tóc phù hợp gương mặt để chuẩn bị đón Tết",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giá Pi Network liên tục dò đáy sau một năm niêm yết",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hà Nội ra mắt Sàn Giao dịch Công nghệ và Chợ Chuyển đổi số",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giá Bitcoin lao dốc xuống mức thấp nhất trong một năm qua",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tháng Giêng nhiều dấu ấn của ngành bán dẫn Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cận Tết, người dùng \"ám ảnh\" cuộc gọi mời chào gói vay tài chính",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người dùng có thể phải trả phí để sử dụng Facebook, Instagram, WhatsApp",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Công nghệ khiến xe máy không thể di chuyển nếu tài xế dùng điện thoại",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cuộc đua giành “ngôi vương” trên thị trường chatbot AI ngày càng gay cấn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Windows 11 cán mốc 1 tỷ người dùng dù chứa rất nhiều lỗi",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nhóm sinh viên Việt phát triển công nghệ giám sát người lái tiên tiến",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "FPT thành lập nhà máy kiểm thử và đóng gói chip bán dẫn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Khai thông “mỏ vàng” tỷ đô từ lộ trình số hóa tài sản thực tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Airbus thử nghiệm robot hình người để lắp ráp máy bay",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sau khi bị phạt, Zalo có trả lại lựa chọn quyền riêng tư cho người dùng?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đau đầu vì SIM rác gọi mời chào, người dùng kỳ vọng xác thực sinh trắc học",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "VNG bị xử phạt hơn 800 triệu đồng vì vi phạm liên quan đến Zalo",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người dùng sẽ phải xác thực lại sinh trắc học khi đổi điện thoại di động",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Bước nhảy vọt của mạng 5G mở đường cho hàng loạt ứng dụng công nghệ mới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sao Khuê 2026: Chuyển đổi mô hình đánh giá và xây dựng Bản đồ giải pháp số",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thuê bao di động phải thực hiện xác thực sinh trắc học, hạn chế SIM rác",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "4 cấp độ cho thấy trí tuệ nhân tạo vẫn còn cách xa con người",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trung Quốc: Robot hình người thể hiện kỹ năng võ thuật đáng kinh ngạc",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Bước chuyển mình của Việt Nam vào lõi công nghệ thế giới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "YouTube ra mắt tính năng khóa Shorts về 0 phút",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Khát vọng tự chủ công nghệ từ những siêu trung tâm dữ liệu của người Việt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Giải pháp AI của FPT IvyChat ghi dấu ấn toàn cầu",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thủ tướng: Lựa chọn con đường khó nhưng bền vững để làm chủ công nghệ lõi",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tổng Bí thư, Thủ tướng Chính phủ dự lễ khởi công nhà máy chế tạo chip bán dẫn đầu tiên tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trí tuệ nhân tạo: Chìa khóa để mở cánh cửa năng suất quốc gia",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "AI có thể tạo ra virus mang độc tố hoàn toàn mới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đạo nhái câu lệnh AI - nghịch lý đạo đức trong kỷ nguyên sáng tạo mới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Apple hợp tác với Google để nâng cấp Siri",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Chatbot AI của Elon Musk bị cấm vì cho người dùng tạo ảnh khiêu dâm",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Petrosetco Distribution (PSD) - đối tác chiến lược của Synology tại Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Công bố giải thưởng về công nghệ AI lên đến 1 triệu USD",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Siri sắp trở nên thông minh hơn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Quán quân “AI Thực chiến 2025” nhận học bổng 1 triệu USD",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Chuyên gia dự báo giá Bitcoin năm 2026 cao nhất 225.000 USD",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cuộc thi AI cho học sinh toàn quốc, tổng giá trị giải thưởng 350 triệu đồng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Việt Nam thành lập Trung tâm quốc gia hỗ trợ sản xuất thử chip bán dẫn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Những đột phá khoa học ứng dụng AI nhận hàng tỷ USD nghiên cứu năm 2025",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Meta lên tiếng về việc hàng loạt fanpage Facebook triệu like biến mất",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Thị trường gia dụng xuất hiện robot nấu ăn thông minh",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Robot gia đình \"biết việc\", tự dọn bàn, rửa bát và pha cà phê",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trải nghiệm tủ lạnh thông minh đầu tiên của Xiaomi ở Việt Nam",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đánh giá máy hút bụi lau nhà Dreame H15 Pro Heat tích hợp AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đánh giá chi tiết robot hút bụi Xiaomi Robot Vacuum 5 Pro",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Máy nấu sữa hạt tự động làm sạch, tích hợp trợ lý giọng nói: Có đáng mua?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đánh giá Dreame Matrix10 Ultra: Robot tự động thay giẻ lau có cần thiết?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trải nghiệm TV giá 120 triệu đồng: Thực tế cho thấy gì?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "MUTOSI giới thiệu công nghệ \"nóng tươi\" HOTX trên các dòng máy lọc nước",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trải nghiệm robot hút bụi Dreame Aqua 10 Pro Track: Có xứng với giá bán?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đánh giá JBL Bar 500MK2: Thiết kế gọn, kết nối đa dạng nhưng còn hạn chế",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Apple hé lộ tham vọng thống trị nhà thông minh bằng robot và AI",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Lý do giúp tủ lạnh nhiều cánh Panasonic chinh phục người dùng Việt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Máy hút ẩm kiêm lọc không khí - Giải pháp kép cho mùa nồm",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Trải nghiệm lọc tổng cao cấp cho biệt thự tại Thế Giới Lọc Tổng Flagship showroom",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Karofi mang đến giải pháp lọc tổng chăm sóc da - tóc và sức khỏe gia đình",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Điều hòa không khí: Ổ chứa vi khuẩn nếu bị bỏ quên",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đón Tết nhàn nhã cùng gia dụng nhà bếp thông minh",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đánh giá robot hút bụi Xiaomi Robot Vacuum S40: Khoẻ nhưng còn giới hạn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sản phẩm Sharp được vinh danh \"Lựa chọn hàng đầu của gia đình\"",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nâng tầm chất lượng sống và sức khỏe cùng hệ sinh thái Lumias",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TVC Tết của Masuto và hình ảnh chiếc ghế trống chạm đến cảm xúc người xem",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nồi ủ chân không Kitchen Mate Kaiyo: Giải pháp bảo toàn dinh dưỡng khi hầm thức ăn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "5 thao tác nhỏ giúp điều hòa mát nhanh, tiết kiệm điện",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tủ đông bền bỉ, tiết kiệm điện trở thành lựa chọn của nhiều cơ sở kinh doanh dịp cận Tết",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Căn bếp công nghệ của \"anh chồng ngoan\", đến giá bát cũng thông minh",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "3 trụ cột bảo chứng chất lượng từ Hitachi",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Rossi mang tới giải pháp an toàn phòng tắm mùa lạnh cho gia đình",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TokTok bắt tay HLV Kim Sang Sik: Nâng tầm trải nghiệm thiết bị gia dụng tới người Việt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Camera báo cháy - giải pháp bảo vệ nhà trọ và gia đình",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Gen Z chi 400 triệu \"hô biến\" nhà thông minh: Bước tới đâu sáng tới đó",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cắm điện thiết bị ở chế độ chờ cả ngày gây tốn điện ra sao?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Xu hướng tích hợp AI lên đồ gia dụng thông minh",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Apple TV 4K sắp có bản nâng cấp lớn với nhiều tính năng mới",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Công ty làm lộ tài liệu nội bộ, hé mở mô hình AI có thể tấn công mạng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "TPHCM thành lập Ban Chỉ đạo về dữ liệu",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nhiều điện thoại sẽ không thể sử dụng MoMo, Zalopay",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tìm thợ mở lại Mobile Banking trên điện thoại, cẩn thận tiền mất tật mang",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nhiều người bị khóa app ngân hàng do thiết bị không đạt chuẩn bảo mật",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Chuyên gia nhận định camera AI là rủi ro an ninh trong vụ không kích Tehran",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Làn sóng tấn công mạng chưa từng có làm tê liệt hạ tầng Iran",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Mẫu điện thoại nào sẽ không thể truy cập các ứng dụng ngân hàng từ 1/3?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Một tài khoản từ Việt Nam bị Meta khởi kiện vì quảng cáo lừa đảo",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Rủi ro khó lường từ trào lưu tạo ảnh AI bản thân",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Ba kỹ sư bị FBI cáo buộc đánh cắp bí mật chip cho Iran",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hơn 1 tỷ dữ liệu cá nhân rò rỉ, người Việt cũng chịu ảnh hưởng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hơn 1 tỷ điện thoại Android đang gặp nguy hiểm",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Ứng dụng hẹn hò \"ma\" để lừa tình trộm dữ liệu xuất hiện trên điện thoại",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "\"Bẫy\" tour du lịch giá rẻ dịp Tết, người dân cần tỉnh táo trước mật ngọt",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Cuộc gọi người dùng iPhone tuyệt đối không nên thực hiện",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Dành 6 tiếng mỗi ngày lướt mạng, người dùng dễ bị trả giá",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Ứng dụng đọc tài liệu tấn công điện thoại, chiếm đoạt tài khoản ngân hàng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Deepfake đưa tội phạm mạng chiếm ngôi đầu danh sách nguy hiểm",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Sập bẫy làm giàu nhanh cận Tết, tội phạm mạng dùng AI để \"chăn thả\"",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Mã độc âm thầm chụp ảnh nhạy cảm từ webcam máy tính để tống tiền người dùng",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người dùng iPhone nhận được tiền bồi thường từ Apple",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Nike điều tra nghi vấn rò rỉ 1,4TB dữ liệu sau tuyên bố của tin tặc",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Lừa đảo tình cảm bằng AI, kịch bản \"mổ heo\" được công nghiệp hóa",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Gmail gặp sự cố hiếm hoi, hộp thư đến \"thất thủ\" vì lỗi bộ lọc phân loại",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hơn 149 triệu tài khoản Facebook, Gmail bị lộ thông tin đăng nhập do mã độc",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Xóa ngay 6 ứng dụng độc hại này khỏi điện thoại của bạn",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Đau đầu vì SIM rác gọi mời chào, người dùng kỳ vọng xác thực sinh trắc học",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Người dùng Facebook lo lắng khi giao diện mới để lộ thông tin cá nhân",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Quản lý SIM bằng sinh trắc học: Hàng rào kỹ thuật chặn lừa đảo từ gốc",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Tin tặc đổi chiêu \"nằm vùng\" chờ thời, hơn 52% doanh nghiệp Việt tổn hại",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Instagram phủ nhận bị lộ mật khẩu tài khoản, người dùng có nên lo lắng?",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "17,5 triệu tài khoản Instagram bị lộ lọt dữ liệu, hệ luỵ từ lỗ hổng cũ",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Hiếu PC chia sẻ cách dùng mạng xã hội an toàn, tránh bị thu thập dữ liệu",
+    "source_name": "Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
+  },
+  {
+    "title": "Anthropic để lộ toàn bộ mã nguồn Claude Code lần thứ hai, tiết lộ hàng loạt tính năng bí mật chưa từng công bố",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tung bản cập nhật cho Claude Code, Anthropic vô tình tiết lộ hơn 500.000 dòng code trong mã nguồn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngành âm nhạc sửng sốt trước AI: 300 triệu USD/năm, 7 triệu bài mỗi ngày và một “Spotify mới” sau mỗi 2 tuần",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google đang định xào nấu lại mọi dòng title bằng AI, ngành SEO đứng trước cuộc thay đổi lớn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AI Trung Quốc nổi loạn, tự mở backdoor thoát ra ngoài, chiếm quyền điều khiển GPU để đào tiền mã hóa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rakuten tung mô hình AI 700 tỷ tham số: tưởng “hàng quốc dân” Nhật Bản, hóa ra là DeepSeek V3 của Trung Quốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một trường đại học Việt Nam bắt tay doanh nghiệp công nghệ đào tạo AI, lượng tử và an ninh mạng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "FPT đề xuất cùng Gia Lai xây dựng trung tâm AI, đầu tư hạ tầng công nghệ và giáo dục",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ai còn cần máy in trong kỷ nguyên AI? HP đưa ra câu trả lời",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple 'kéo' phó chủ tịch Google về làm AI: Siri mới sẽ chạy trên hạ tầng của chính đối thủ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đại diện HP: AI không cần mô hình lớn nhất, mà cần phù hợp với thiết bị",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bới rác tìm vàng: Khi những chiếc điện thoại nát bỗng hóa \"tài sản chiến lược\" nhờ cơn khát chip AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google ra mắt TurboQuant: nén KV cache AI lên tới 6 lần, không mất độ chính xác",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cuộc chiến Token: Trung Quốc đang âm thầm vượt mặt các ông lớn trong nền kinh tế AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chiến lược đầu tư của NVIDIA và vai trò của Jensen Huang trong mạng lưới liên minh AI toàn cầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google công bố thuật toán mới, nén bộ nhớ AI xuống 6 lần: cổ phiếu chip nhớ lập tức lao dốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot học YouTube để biểu cảm chân thực, xóa nhòa ranh giới người - máy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "FPT triển khai hạ tầng AI với GPU thế hệ mới của NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trung Quốc trình diễn bầy robot chiến đấu tự động với tên lửa siêu nhỏ và AI phối hợp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ 2.200 đồng/phút: AI Streamer ảo đang \"vắt kiệt\" 18 tiếng traffic chết, đe dọa nhân sự nghề livestream",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một doanh nghiệp công nghệ Việt lọt Top 35 nhà cung cấp dịch vụ phát triển ứng dụng AI toàn cầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI đột ngột khai tử công cụ tạo video Sora, Disney \"ngỡ ngàng\" khi thỏa thuận 1 tỷ USD bay màu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sợ kế toán sai một li \"đi... tù một dặm\", lập trình viên tự code ứng dụng AI đọc hóa đơn thay mình",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO Jensen Huang tuyên bố siêu trí tuệ AGI đã đến, nhưng không kỳ diệu như bạn nghĩ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "iPhone 17 Pro chạy được mô hình AI 400 tỷ tham số nhờ thủ thuật stream từ SSD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenClaw khiến 30 năm kinh nghiệm Excel trở nên vô nghĩa: Đây có phải ngày tàn của ‘kỹ năng sử dụng máy tính’ văn phòng?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cơn ác mộng của marketing: OpenClaw có thể làm mất dấu ấn thương hiệu, biến App thành vô hình, giao diện phần mềm UI/UX trở nên vô dụng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Huawei ra mắt Atlas 350: chip AI suy luận mới tuyên bố vượt H20 của NVIDIA 2,8 lần",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Project Amethyst: Sony và AMD bắt tay đưa tính năng tạo khung hình AI vào PlayStation",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Jensen Huang thừa nhận Trung Quốc dẫn đầu robotics, NVIDIA đặt cược vào Physical AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ChatGPT sắp cho phép nội dung nhạy cảm, dấy lo ngại lộ dữ liệu cá nhân",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI lên kế hoạch ra mắt “siêu ứng dụng” trên máy tính",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tranh cãi quanh việc công khai sử dụng AI sinh nội dung trên các cửa hàng game số",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI sắp hợp nhất mọi nền tảng thành 'siêu ứng dụng', chatbot được đẩy lên 1 tầm cao mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AI tạo ra một tài khoản Instagram quá hoàn hảo: chỉ 3 tháng lừa được hơn 1 triệu follower, có người nhận ra nhưng vẫn không bỏ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tưởng chỉ để bơm bóng bay, nhưng loại khí này đang khiến cả ngành chip AI \"khó thở\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trung Quốc 'trải thảm đỏ' đón startup AI 1 người: Nhân tài được cấp căn hộ miễn phí, trung tâm 'đắp chiếu' bỗng hoá thành vườn ươm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "So kè OpenClaw và ChatGPT Agent: AI nào thật sự làm được việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi giới thiệu bộ ba MiMo-V2-Pro, MiMo-V2-Omni và MiMo-V2-TTS, tập trung vào AI đa nhiệm và tổng hợp giọng nói",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Model AI bí ẩn tự nhận \"không biết mình là ai\": cả thế giới nghi là DeepSeek-V4, hóa ra là của Xiaomi",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dùng 20 năm kiến thức, nhà toán học tạo ra bài toán AI không thể giải, ChatGPT 5.4 phá giải ở lần chạy thứ 11",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenClaw là gì mà CEO Nvidia ca ngợi sẽ trở thành \"ChatGPT tiếp theo\"?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD đạt thỏa thuận với Samsung về nguồn cung HBM4 cho Instinct MI455X, tiếp tục hợp tác sản xuất chip AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nghiên cứu mới: AI đơn lẻ thành công 100%, nhưng làm việc nhóm thất bại tới 68%",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tin buồn cho hàng triệu người dùng ChatGPT",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA phản hồi tranh cãi về DLSS 5: CEO Jensen Huang khẳng định AI không làm giảm chất lượng đồ họa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhờ AI, Trung Quốc tìm ra cách \"xuất khẩu điện\" không dây sang Mỹ: lãi gấp 20 lần mà không thể bị đánh thuế",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA trình làng nền tảng trung tâm dữ liệu AI Vera Rubin với GPU Rubin và CPU Vera thế hệ mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA dự báo doanh thu vượt 1.000 tỷ USD nhờ nhu cầu tính toán AI tăng vọt đến năm 2027",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA giới thiệu NemoClaw, tăng cường bảo mật cho OpenClaw và thúc đẩy AI Agent trong doanh nghiệp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Facebook Marketplace tích hợp AI tự động trả lời tin nhắn, tạo bài đăng cho người bán",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đối thủ của Tinder ra mắt trợ lý AI 'mai mối', có thể loại bỏ cơ chế 'quẹt' quen thuộc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "LG giới thiệu loạt giải pháp HVAC ứng dụng AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hãng điện thoại Trung Quốc thử nghiệm AI OpenClaw tích hợp sâu vào hệ điều hành, tuyển người dùng trải nghiệm sớm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nghịch lý số phận lập trình viên thời AI: Lão làng lên chức, coder trẻ thành người thừa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nuôi tôm hùm được ví như \"làm chơi ăn thật\": Một người có thể kiếm 1 tỷ trong vài ngày, điều kiện cực dễ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "\"Vibe code\" với Cursor, sinh viên Trung Quốc nhận đầu tư hơn 114 tỷ đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD hướng dẫn chạy OpenClaw AI agent trên Ryzen AI MAX+ và Radeon AI PRO, hé lộ hiệu năng xử lý ấn tượng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thực tế khắc nghiệt khi con người làm thuê cho AI: Hơn 600.000 người đăng ký, trung bình 60 người tranh nhau một công việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trợ lý cuộc gọi FAI 2.0 của mạng di động FPT có gì mới: 7 giọng nói, tự soạn kịch bản giao hàng, lọc cuộc gọi lừa đảo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một thay đổi nhỏ trên Claude vừa khiến Google và OpenAI phải đau đầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "SolidRun ra mắt hệ thống AI biên dùng chip AMD Ryzen AI Embedded P100 và RAM LPCAMM2",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cơn sốt OpenClaw tại Trung Quốc: Khi AI thông minh đến mức Chính phủ phải cảnh báo khẩn cấp vì lo rò rỉ dữ liệu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA ra mắt Nemotron 3 Super, mô hình AI mã nguồn mở với cửa sổ ngữ cảnh 1 triệu token",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO NVIDIA: Card đồ họa GeForce 25 năm tuổi chính là khởi nguồn của cuộc cách mạng AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta đẩy mạnh phát triển chip AI riêng, ra mắt 4 thế hệ chip mới trong hai năm tới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tenstorrent ra mắt máy trạm AI làm mát bằng chất lỏng, giá từ ~260 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO AMD Lisa Su đến Hàn Quốc gặp lãnh đạo Samsung, thảo luận về chip AI và HBM",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công ty công nghệ Việt nhận bằng sáng chế AI quốc tế, đứng chung bảng xếp hạng với IBM",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Quá thông minh, Claude AI tự nhận ra mình đang bị kiểm tra: Tự viết code phá mã hóa bảo mật để hack đáp án, gian lận bài test",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Legora, nền tảng AI pháp lý, đạt định giá 5,55 tỷ USD sau vòng gọi vốn 550 triệu USD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot cắt cỏ ANTHBOT Genie ra mắt với AI và định vị RTK, không cần dây biên",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Razer hé lộ tương lai game với trợ lý AI đa năng và công cụ kiểm thử tự động tại GDC 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Adobe mở rộng AI cho Photoshop và Firefly, tăng cường khả năng chỉnh sửa hình ảnh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Startup Sandbar huy động gần 600 tỷ đồng, ra mắt nhẫn thông minh ghi chú tích hợp AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ \"Nước đi 37\" chấn động toàn cầu - giờ AI đã đi xa đến đâu?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Neura Robotics bắt tay Qualcomm, đặt nền móng cho thế hệ robot AI vật lý tiếp theo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google tích hợp AI Gemini sâu rộng vào Docs, Sheets, Slides và Drive, nâng cao năng suất làm việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "YouTube triển khai công nghệ phát hiện deepfake AI cho quan chức, nhà báo, tăng cường tính toàn vẹn thông tin",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AgentMail huy động 6 triệu USD để tạo địa chỉ email riêng cho các AI agent",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ứng dụng AI gặp khó khăn trong việc giữ chân người dùng, tỷ lệ hủy đăng ký cao hơn 30%",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chi tiền mua một mạng xã hội dành cho AI, được code bằng AI, Mark Zuckerberg đang toan tính gì?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA ưu tiên chip AI, CEO Microsoft gợi nhắc về nền tảng gaming của hãng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Amazon mở rộng trợ lý AI y tế Health AI, cung cấp dịch vụ chăm sóc sức khỏe cá nhân hóa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Phòng thí nghiệm AI của đồng sáng lập OpenAI hợp tác chiến lược với NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO NVIDIA Jensen Huang ví von AI như 'bánh 5 lớp', khẳng định tiềm năng lớn chưa khai thác",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ChatGPT của OpenAI ra mắt tính năng giải thích trực quan động, cách mạng hóa học tập toán và khoa học",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta thâu tóm Moltbook, mạng xã hội AI từng gây xôn xao vì lo ngại bảo mật",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA tăng tốc tạo video AI trên ComfyUI, đơn giản hóa trải nghiệm người dùng và nâng cao hiệu suất",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "VAI-ONE: Nền tảng họp thông minh cho thế hệ đa nhiệm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rambus ra mắt bộ điều khiển HBM4E, băng thông mỗi mô-đun hơn 4 TB/s, sẵn sàng cho siêu chip AI thế hệ mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMI Labs của Yann LeCun gọi vốn hơn 26 nghìn tỷ đồng, tham vọng phát triển AI hiểu thế giới thực",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Báo cáo Unity 2026: game nhỏ lên ngôi, AI trở thành công cụ thiết yếu của nhà phát triển",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mã nguồn mở nền tảng AI Agent, NVIDIA tạo nên vòng lặp tàn nhẫn: Càng nhiều người thất nghiệp, càng bán được nhiều chip",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công ty hạ tầng AI Nscale đạt định giá 14,6 tỷ USD, chuẩn bị IPO",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hơn 30 chuyên gia AI từ OpenAI và Google DeepMind ủng hộ Anthropic kiện Bộ Quốc phòng Mỹ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI mua lại startup Promptfoo, củng cố khả năng bảo mật cho các tác nhân AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Khốc liệt cuộc chiến AI Coding: Từ chỗ không thể ngăn cản, Cursor đã bị đối tác thân thiết Anthropic đè bẹp chỉ trong 6 tháng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Anthropic giới thiệu AI kiểm tra mã nguồn, giúp doanh nghiệp giảm lỗi và tăng tốc phát triển",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Liên minh lưỡng đảng Mỹ đề xuất khuôn khổ phát triển AI có trách nhiệm, giữa lúc Washington bế tắc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xung đột Trung Đông đe dọa nguồn cung năng lượng, vật liệu, đẩy ngành công nghiệp AI vào thế khó",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta buộc phải mở cửa WhatsApp cho chatbot AI đối thủ tại Brazil, thu phí từng tin nhắn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Amazon Web Services ra mắt nền tảng AI mới, giúp ngành y tế giảm gánh nặng hành chính",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sao chép trí tuệ nhân tạo của Mỹ, Trung Quốc ' bỏ túi' hàng tỷ USD, có founder thành tỷ phú AI chỉ sau 1 đêm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CẢNH BÁO: Hành vi số hóa, chia sẻ, phát tán sách lậu trên mạng có thể bị phạt tới 20 triệu đồng!",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an thông báo tới tất cả những ai nhận được tin nhắn có nội dung sau đây",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngân hàng cảnh báo những hình ảnh tuyệt đối không lưu trong điện thoại, tránh bị \"hack\" tài khoản",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chấm dứt kỷ nguyên \"Microslop\": Microsoft dọn dẹp mớ bòng bong AI trên Windows 11",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an khuyến khích người dân làm điều này trên ứng dụng VNeID",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chủ sở hữu nền tảng OnlyFans qua đời khi chỉ mới 43 tuổi",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một dịch vụ tại ngân hàng sẽ bị dừng hoàn toàn từ 1/4, người dân đặc biệt chú ý",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mua RTX 5090 giá gần 85 triệu, nhận về... gói bột giặt: Cú lừa gây sốc ngay trên Amazon",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mua bán tài khoản Netflix, Spotify có thể bị phạt tới 50 triệu đồng từ 2026: Đề xuất mới siết chặt tình trạng \"dùng ké\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Android sắp thay đổi lớn: Cài app ngoài Play Store theo cách này, nhưng ứng dụng ngân hàng của bạn có thể bị gián đoạn 24 giờ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Zalo vẫn là ứng dụng được sử dụng nhiều nhất tại Việt Nam",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "'Rác' AI đội lốt giáo dục trên YouTube đang dạy trẻ em những hành vi nguy hiểm, phụ huynh cần cảnh giác",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nói thật là, cần mua đồ công nghệ hãy mua ngay, đỉnh hôm nay có thể trở thành đáy của ngày mai",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an cảnh báo nóng về thói quen dùng wifi của người dân",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rổ phim vẫn hoạt động sau khi bị \"tuýt còi\": Hơn 103 triệu lượt truy cập, vi phạm bản quyền hơn 18.000 phim",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nút bấm \"Tôi không phải là robot\" thực chất không hề vô nghĩa: Sự thật kế hoạch hàng tỷ USD của Google",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Giải phóng DevOps khỏi gánh nặng vận hành để tăng tốc đổi mới sản phẩm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AI không còn để thử cho vui: 4 ứng dụng AI Việt phục vụ công việc từ làm web đến trồng trọt",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "BabyBus - ứng dụng giáo dục trẻ em nổi tiếng bị phạt hơn 1 tỷ: Nhiều cha mẹ cho rằng \"không oan chút nào\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google Maps đã cập nhật bản đồ mới sau sáp nhập",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tra phạt nguội, gửi phản ánh, tìm đường đi: 3 app Việt đang thay đổi cách sống của cả Gen Z lẫn người lớn tuổi",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Game thủ chê công nghệ DLSS 5 của NVIDIA là “vô hồn”, bèn chế meme để bộc bạch cảm xúc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lỡ bấm link tin nhắn mạo danh Vietcombank, soạn ngay cú pháp này để cứu tài khoản",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cha đẻ ChatGPT: AI đang trở thành \"vật tế thần\" để các công ty sa thải nhân sự",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ai có tài khoản ngân hàng chú ý: Xóa ngay tin nhắn Zalo, Facebook, SMS có nội dung sau",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nóng: Forbes công bố danh sách tỷ phú năm 2026, vợ và em vợ ông Phạm Nhật Vượng lần đầu tiên góp mặt",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tất cả người dân đặc biệt chú ý khi app ngân hàng bỗng nhiên bị khóa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vụ trộm có 1-0-2: Đục tường để ăn trộm 500 thẻ Pokemon trị giá 4,7 tỷ đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cách đơn giản để biết điện thoại “bẻ khoá” có nguy cơ bị chặn ứng dụng ngân hàng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhận 1 tỷ đồng chuyển khoản gần Tết, chưa đầy 24h, người đàn ông ở TP.HCM bị công an phường yêu cầu xác minh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Elon Musk đại chiến Pizza với OpenAI: Một chiếc bánh khơi mào xung đột hàng trăm triệu USD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Web phim lậu lớn nhất Việt Nam tuyên bố \"khai tử\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sắp tới đây, Vietcombank, Agribank, BIDV, VietinBank, VPBank, MB,TPBank…sẽ dừng hoạt động ứng dụng trên loạt điện thoại sau",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cảnh báo loại tin nhắn có thể khiến người dùng rơi vào cạm bẫy: Nhận được phải xóa ngay",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cựu kỹ sư Google đánh cắp 2000 trang tài liệu công nghệ AI cho Trung Quốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lần hiếm hoi Elon Musk \"nhún nhường\" trước Trung Quốc: Nếu không làm như vậy, thảm họa có thể xảy ra",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tỷ phú Phạm Nhật Vượng cấp 8 triệu đồng/tháng cho 20.000 người VN để khai thác \"kho báu\" bằng 12% GDP",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chi tiết cách tra cứu nợ thuế thu nhập cá nhân năm 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Gmail gặp lỗi nghiêm trọng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thêm nhiều hãng hàng không cấm dùng sạc dự phòng trên máy bay từ 26/1",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cảnh báo nóng đến tất cả người dùng điện thoại iPhone",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhóm bạn \"xây Việt Nam trong Minecraft\" vô địch thế giới: Ngày ngủ 3 tiếng và cuộc “cân não” thu nhỏ thế giới thực",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "BEST Express Việt Nam ra mắt BEST Cargo, mở rộng sang mảng vận tải hàng nặng và cồng kềnh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rò rỉ dữ liệu Instagram ảnh hưởng đến 17,5 triệu tài khoản người dùng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ ngày 1/3/2026: Vietcombank, VietinBank, Agribank… dừng hoạt động ứng dụng ngân hàng đối với các thiết bị sau",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rùng mình nghe kẻ lừa đảo đọc vanh vách số dư, biết cả mã OTP: Lỗ hổng chết người đến từ đâu?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngày này đã tới rồi sao: Khung cảnh người Nhật dùng chong chóng tre bay đi làm đi học gây bão",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Starlink sẽ hạ độ cao hàng vạn vệ tinh sau sự cố hiếm gặp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Luật Bảo vệ dữ liệu cá nhân: Các hành vi bị nghiêm cấm từ 1-1-2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thực hư việc hàng loạt fanpage tích xanh lớn xoá avatar Facebook: Không phải để \"né report\" như nhiều người nghĩ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhờ Elon Musk, game thủ ngày nay đã có thể chơi game online \"không giật, lag\" ở độ cao 9.000 mét",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Gần 2 triệu người dùng tải về, ứng dụng nhắn tin Lotus Chat đang được người Việt ngày càng ưa chuộng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tóm tắt trend 2025: Dùng Google Maps trở về quá khứ, book trạm tỷ chụp lén, cuối năm \"vừa chạy deadline vừa khóc\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đêm Giáng sinh, 1 người trúng số 47.000 tỉ đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ông Phạm Nhật Vượng giàu cỡ nào?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhóm “lưu trữ lậu” cào sạch 300TB nhạc của Spotify, tung torrent miễn phí 86 triệu bài hát",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xôn xao bức ảnh tài xế doanh thu 1,6 tỷ đồng, Be nói gì?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trung Quốc siết chặt quản lý giá trên các nền tảng Internet",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "TikTok chấp nhận bán mình, ông chủ mới là tỷ phú quen thuộc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Coursera thâu tóm Udemy, dồn lực cho đào tạo AI với quy mô 2,5 tỷ USD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Internet Việt Nam đang được bảo vệ như thế nào trước AI, lừa đảo và các cuộc tấn công vô hình?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Internet Day 2025: Khi “niềm tin số” trở thành điều kiện sống còn của Internet Việt Nam",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Không còn hỏi tiền COD, lừa đảo shipper nay dùng kịch bản mới khiến người nhận tự sập bẫy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Internet Day 2025 sắp diễn ra: Việt Nam đặt cược vào “Không gian số tin cậy” trong kỷ nguyên AI bùng nổ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Elon Musk thừa nhận: Nếu có thể quay lại, tôi sẽ không tham gia DOGE",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google công bố trend tìm kiếm năm nay: Không còn \"AI là gì?\", người Việt giờ tìm cách làm video, phục chế ảnh và tạo mô hình bằng AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Người dùng Messenger trên máy tính sắp bị bỏ rơi?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trò đùa “ăn mày AI đột nhập” gây hoang mang ở Trung Quốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tốc độ mạng Việt Nam: Từ cuộc đua 5G đến dấu ấn của những \"người xây móng\" thầm lặng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Choáng ngợp trước công nghệ điều khiển hệ thống \"ánh sáng ngập trời\" trong những buổi diễu hành tại Disney World",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Doanh nghiệp TP Hồ Chí Minh trước nguy cơ bị tấn công mạng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "TikTok chuẩn bị cho phép người dùng giảm bớt nội dung AI trên feed",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cloudflare là gì mà chỉ cần \"hắt hơi\", 20% Internet lập tức \"sổ mũi\"?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "20% internet đang sập!",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Shopee siết chính sách hoàn trả hàng: Chỉ VIP và người mua sắm nhiều mới được hoàn hàng không lý do",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đẩy mạnh điều tra các nền tảng thương mại điện tử",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mất 5 triệu đồng vì đòi lại 120 ngàn đồng của shipper",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ tài chính đến cảm xúc: Làm sao để người Việt thật sự hạnh phúc?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "TV Micro RGB của Samsung lọt top “Phát minh của năm” của tạp chí TIME",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Với “lá chắn công nghệ”, MB đang bảo vệ 35 triệu khách hàng như thế nào?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nạn lừa đảo, đánh cắp dữ liệu đang gia tăng, làm sao để người Việt yên tâm giao dịch trên các nền tảng tài chính số?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tổng thư ký Liên Hợp Quốc Antonio Guterres tại Lễ ký Công ước Hà Nội: “Không ai an toàn cho đến khi tất cả đều an toàn”",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Youtuber Khoai Lang Thang đau đầu vì bị sử dụng hình ảnh đi lừa đảo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bị cáo buộc là “anh hùng bàn phím”, chàng trai Hàn Quốc nhận kèo trên mạng, mở cả lễ hội quy tụ 2.000 người tới xem và cái kết viên mãn cho tất cả",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cụ bà di chúc để toàn bộ tài sản cho tên lừa đảo, con đẻ không được gì",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Khi một dòng code cứu được mạng người: Câu chuyện về nền tảng cứu hộ \"chạy\" chỉ sau 4 giờ vibe coding",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Streamer sinh con ngay trên livestream, tới hơn 30.000 người vào xem, có cả CEO của Twitch",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Facebook đang dần “video hóa”",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cục trưởng lên sóng livestream bán bánh trung thu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ khuyến mãi tới thói quen: Vì sao \"đổ tiền ưu đãi\" vẫn không giữ được Gen Z?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Loạt xu hướng tài chính mới đang định hình thói quen tiêu dùng, kinh doanh của người Việt",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Viettel Money vs HDBank: \"Phổ cập\" và \"đột phá\", ai xứng đáng lên ngôi ở hạng mục Hệ sinh thái tài chính?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Doanh nghiệp sử dụng Bizfly Cloud Database để tăng tốc độ truy xuất và vận hành ổn định",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Facebook bỗng dưng \"đào mộ\" tính năng này: Người bảo cũng tiện, kẻ bảo \"vô dụng, ai mướn?\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple lần đầu hỗ trợ phụ đề tiếng Việt trên sự kiện iPhone 17: Việt Nam được nâng tầm thị trường trọng điểm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hé lộ danh sách những chuyên gia sẽ “cầm cân nảy mực” tại Better Choice Awards: Từ chuyên gia đầu ngành, chủ doanh nghiệp đến những KOL hàng đầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bán tài khoản ngân hàng, 2 người bị phạt 91 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "VPS giá rẻ HostingViet - Giải pháp lưu trữ tối ưu, tốc độ cao",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nội dung và giá trị hữu ích: Duy Thẩm và Pew Pew “mở đường chỉ lối” cho những bạn trẻ muốn bắt đầu trong ngành sáng tạo nội dung",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sai lầm khi sử dụng chế độ ẩn danh và hệ quả tai hại",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NotebookLM hỗ trợ tiếng Việt, Gemini tăng sức mạnh sáng tạo hình ảnh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "5 yếu tố quyết định chi phí thiết kế website – Nên đọc trước khi ký hợp đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bị “người dưng trên mạng” chê bai vì bán hết cổ phiếu Apple, Steve Wozniak phản pháo: tôi không sống vì tiền",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dân AI nức nở khen AI “ốp” được quả trứng màu xanh biển, dân thiết kế bảo chỉ cần chục giây là xong",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO Framework chỉ ra điểm yếu khó nâng cấp của MacBook Neo, hé lộ triết lý trái ngược hoàn toàn của 2 hãng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Giá RAM DDR5 tại Trung Quốc bất ngờ giảm hơn 30% sau khi Google ra mắt TurboQuant - nhưng đây không phải dấu hiệu hết khan hàng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Khủng hoảng RAM toàn cầu bất ngờ mở ra \"cửa thắng\" cho Apple, MacBook Neo có thể là quân bài chiến lược",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "TV mới của TCL: Tấm nền Mini-LED siêu sáng, tần số quét 288Hz, âm thanh B&O",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Gửi RTX 5070 hỏng đi bảo hành, người dùng nhận lại RTX 5070 Ti xịn hơn và được phép giữ luôn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung ra mắt sản phẩm có 1-0-2: Tủ lạnh AI tự nhận diện rượu vang, tự gợi ý thực đơn, nhìn giá cũng... \"hốt hoảng\" không kém!",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA tung chế độ mới trên DLSS 4.5: Game thủ 240Hz+ sắp có trải nghiệm mượt chưa từng thấy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mua tản nhiệt, nhận luôn chip Ryzen 5 8400F: Cú nhầm lẫn trị giá gần 4 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ra mắt máy chiếu chạy bằng pin dự phòng, xem được cả Netflix và YouTube, giá chỉ hơn 3 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mini PC này thiết kế đẹp, dùng chip Intel tiến trình 18A 1.8nm, có thể cắm thêm GPU desktop để chơi game nặng. giá hơi... hốt hoảng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Micron tính xếp chồng bộ nhớ GDDR của GPU gaming để tạo giải pháp AI kiểu HBM, và game thủ có thể là người ảnh hưởng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đây là máy chiếu 4K giá hơn 80 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sony Clip WF-LC900: Tai nghe mở dạng kẹp, tận hưởng cùng lúc âm nhạc và thế giới thực",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung định hình ngành công nghiệp nghe nhìn với TV Micro RGB và trợ lý Vision AI Companion",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Củ sạc 45W bé như sạc 5W: Thiết kế quá gọn nhẹ, sạc được cả MacBook, giá chỉ vài trăm ngàn đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mini PC này thiết kế nhỏ gọn nhưng vẫn có RTX 4060 Ti",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MSI ra mắt màn hình 2K 144Hz dùng công nghệ xịn để giảm mỏi mắt, giá chưa tới 5 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi ra mắt nồi cơm điện mới: Lõi titan nung chảy, áp suất 105°C, nấu xong trong 24 phút, vẫn không có quai xách",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Anker Nebula P1i lên kệ tại Anh: Máy chiếu 150 inch chạy Google TV, giảm gần 2 triệu đồng so với giá gốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi sắp ra phụ kiện biến TV thường thành TV \"khôn\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MacBook Neo vs laptop Windows: 8GB hay 16GB sẽ thắng?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Amazfit sắp bán T-Rex Ultra 2 và Active 3 Premium: một chiếc đủ cứng để lặn biển, chiếc kia tập trung theo dõi sức khỏe",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bùng nổ dịch vụ thuê kính AI ở Trung Quốc: Từ món đồ 150.000 đồng đến sự thật ngỡ ngàng sau cơn sốt đang càn quét giới trẻ tỷ dân",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "iMac OLED 220 PPI sắp thành hiện thực: Samsung và LG đã bắt tay vào làm, nhưng thực tế vẫn còn xa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ugreen xóa bỏ phiền toái \"quên cáp sạc\" bằng pin dự phòng Qi2 15W mỏng 13,9mm tích hợp sẵn dây USB-C",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đã mua PS5 từ sớm, nhưng nói thật là hay tin Sony tăng giá, tôi chỉ lo chứ chẳng thấy lời",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đây là robot vệ sinh thương mại giá 1 tỷ đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OPPO Watch X3 Mini hé lộ thiết kế 3 màu, tích hợp tính năng gợi ý luyện tập theo chu kỳ kinh nguyệt",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mac vs Windows đang lặp lại kịch bản iPhone vs Android, và hãng nào sẽ chịu thiệt nhất đã có thể đoán trước",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Laptop Windows giờ đã có pin dùng hơn 1 ngày nhờ Intel Panther Lake, MacBook có nên lo lắng?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ robot hút bụi 20.000Pa đến máy pha espresso 20 bar: Xiaomi tiếp tục \"chiếm\" ngôi nhà của bạn năm 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rogbid ra mắt vòng tay không màn hình đầu tiên: chip ECG 500Hz, theo dõi thành phần máu, giá khoảng 1,8 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dell xóa sổ thương hiệu XPS rồi phải mang lại sau 1 năm - bài học đắt giá về sức mạnh cái tên",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lần đầu tiên, sinh viên Việt Nam phải đắn đo giữa MacBook và Windows ở cùng mức giá 16 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD công bố Ryzen 9 9950X3D2 với hai stack 3D V-Cache, tổng dung lượng cache lên tới 208 MB",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple 'khai tử' Mac Pro sau khi tự tay xóa đi lý do duy nhất khiến ai đó mua chiếc máy này",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "GMKtec EVO-T2 lên kệ toàn cầu ngày 30/3: Chip Intel Panther Lake mới nhất, GPU tích hợp ngang RTX 4050 nhưng đợt đầu chỉ có 50 chiếc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bão giá RAM khiến PC đắt đỏ: HP cho rằng khách hàng đã quen với điều này",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trải nghiệm thực tế ảo 4K trên Meta Quest 3: Không dây, bộ nhớ lớn và ưu đãi Xbox Game Pass",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung Display ra mắt \"QuantumBlack\" - công nghệ film mới giúp màn hình QD-OLED bớt chói hơn, cứng hơn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "DJI Avata 360 ra mắt với camera kép 8K HDR, cho phép chọn khung hình sau khi quay",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "UNIX HAVANA UX-W3 ra mắt: Tích hợp cả ANC lẫn ENC, pin 42 giờ, giá chưa tới 500.000 đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ASUS ROG Crosshair X870E APEX cùng Ryzen 9 9950X3D2 đạt DDR5-8800 MT/s, nhưng con số CL32 mới là thứ khiến giới ép xung thực sự ngỡ ngàng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MacBook Neo giá 16 triệu đồng, Apple vẫn lời lớn nhờ bán thứ mà người dùng không nhìn thấy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ASUS ExpertCenter P600 AiO ra mắt cho doanh nghiệp: chip Ryzen AI 50 TOPS và độ bền đạt chuẩn quân sự MIL-STD 810H",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nguồn tin AMD: PS6 có thể bán 18 triệu đồng dù tốn gần 20 triệu đồng để sản xuất - nhưng không có Xbox, Sony có chịu bù lỗ không?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hisense XR10 Triple Laser: Máy chiếu 4K cao cấp giá hơn 185 triệu đồng, tặng kèm dàn âm thanh không dây",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Philips Evnia ra mắt màn hình gaming QD-OLED 4K 240Hz với lớp graphene tản nhiệt, giá bán vẫn là ẩn số",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung ra mắt 870 Evo 8TB sau 4 năm: Dung lượng gấp đôi tiền nhiệm, giá khoảng 38 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Casio EDIFICE EQB-1300 sắp ra mắt tháng 4: Lần nâng cấp đầu tiên sau gần 4 năm, thiết kế lấy cảm hứng từ ô tô",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ASUS ra mắt ExpertBook B3 G1: laptop doanh nghiệp tùy biến từ chip đến màn hình, nhưng giá bán vẫn là ẩn số",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "SSD Samsung giả tinh vi chưa từng thấy: Không thể nhận ra bằng mắt thường, chỉ một phần mềm miễn phí mới phát hiện được",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD Ryzen 5 5500X3D bất ngờ lên kệ qua một cửa hàng duy nhất, giá khoảng 6,3 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Máy chơi game giá gần 2 triệu chạy Android siêu cũ, chuyên giả lập Game Boy và PS1",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MacBook Pro M5 Max: SSD PCIe Gen 5 đạt 106°C khi chạy AI, đặt dấu hỏi về giải pháp tản nhiệt của Apple",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bài nghiên cứu AI của Google 'xóa sổ' hàng trăm tỷ USD vốn hóa Micron, RAM DDR5 giảm hơn 2,6 triệu đồng mỗi kit",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sau nhiều năm 'ở ẩn', Honor tái xuất làng laptop gaming: chiếc WIN ra mắt tháng 4 với RTX 5070 và công suất vượt 250W",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung Odyssey G91SD giảm 38%: Màn hình OLED cong 49 inch còn khoảng 21 triệu đồng, tặng kèm game Resident Evil Requiem",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cựu CEO Intel Pat Gelsinger: Wall Street đã cản trở tham vọng sản xuất chip dài hạn của Intel",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Casio bổ sung 3 mẫu Edifice EFR-575 mới tại châu Âu, phiên bản dây da mạ vàng giá khoảng 4,5 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Intel xác nhận không ra mắt Core Ultra 9 290K Plus: 'đỉnh hiệu năng' đã đủ với Ultra 7 270K Plus",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mới ra mắt đầu năm, Pocket S Mini của Ayaneo đã bị khai tử - và đó mới chỉ là bắt đầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trải nghiệm thực tế DLSS 5: ấn tượng về ánh sáng nhưng vẫn còn điểm chưa ổn, NVIDIA hé lộ khả năng bật tắt qua driver",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sony tăng giá PS5 vì AI 'ngốn' bộ nhớ toàn cầu: Microsoft và Nintendo được dự báo sẽ theo bước",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hỏng cảm biến góc nắp khiến MacBook Pro không thức dậy khi dùng pin",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trên tay mẫu máy đọc sách iReader Neo3 Pro: Màn hình nhỏ nhưng trải nghiệm lớn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sony tăng giá PS5 và PS5 Pro thêm khoảng 3 triệu đồng: game thủ châu Âu sắp phải chi gần 17 triệu đồng cho máy chơi game",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung nhét GPU rời RTX 5070 vào laptop 15,4mm và vẫn tuyên bố pin dùng được 30 giờ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "SmartSens giới thiệu cảm biến SC5A6XS 50 MP 1 inch với HDR 3.0 và quay 4K 120fps",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD trình làng Ryzen 9 9950X3D2 Dual Edition với 192 MB L3 cache, ra mắt ngày 22/4/2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Màn hình gaming Thunderbird 27Q6A Pro của FFALCON gây chú ý với tần số quét 320Hz và Mini LED",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Jensen Huang và Lip-Bu Tan xác nhận phát biểu keynote tại Computex 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "PS5 Slim và PS5 Pro đứng trước đợt tăng giá",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Người dùng mua được MSI RTX 5060 Ti Ventus 2X với giá chỉ 80 USD tại Walmart",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "LG trình làng dòng TV 2026 với OLED evo G6, C6, B6 và Micro RGB evo hoàn toàn mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO ARM tự tin AGI CPU sẽ gây khó cho Intel và AMD, nhưng không \"phật lòng\" NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple khai tử Mac Pro, Mac Studio trở thành workstation duy nhất",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Asus Zenbook Duo đẹp thật, nhưng Intel Core Ultra X9 388H mới là thứ khiến tôi phải “tròn mắt” với mức FPS khó tin",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Intel Arc Pro B70 gây chú ý với bộ nhớ 32 GB, giá chỉ bằng một nửa đối thủ NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi ra mắt loa không dây cao cấp giá 3,6 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dell làm mới toàn bộ dòng PC doanh nghiệp: laptop mỏng hơn, máy trạm hỗ trợ AI, desktop siêu nhỏ gọn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chuột Dell MS526C tích hợp cảm biến vân tay, hướng tới bảo mật cho môi trường doanh nghiệp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Intel trình làng Arc Pro B70 và B65 với GPU Big Battlemage, bộ nhớ 32 GB hướng tới AI và workstation",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OPPO Watch X3 Mini và Enco Clip 2 lộ diện trước ngày ra mắt cùng K15 Pro series",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Khách hàng Inno3D phản ánh hãng yêu cầu tự thay keo tản nhiệt cho RTX 4090 khi gặp lỗi",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Core Ultra 5 250K Plus: Mảnh ghép vừa vặn hoàn thiện màn comeback của Intel ở phân khúc tầm trung",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nintendo điều chỉnh giá game Switch 2, bản digital rẻ hơn bản vật lý từ tháng 5/2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "PlayStation 6 và bài toán khó: thuyết phục người dùng PS5 bỏ tiền nâng cấp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Màn hình di động còn đắt và ít lựa chọn, người dùng tìm tới màn hình \"DIY\" tự ráp: 18 inch, 2.5K, 165Hz, giá chỉ 3.5 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhiều mẫu smartwatch năm 2026 tập trung vào pin siêu bền, Garmin và Coros dẫn đầu về thời lượng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi ra mắt phiên bản mới của màn hình \"quốc dân\": nâng tần số quét lên 144Hz, giá vẫn dưới 3,3 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thị trường bộ nhớ toàn cầu biến động mạnh, giá DDR4 tăng vọt trong năm 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mini PC SEAVIV AideaMini R10 trang bị Ryzen 5 3500U, giá chỉ khoảng 3,3 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MacBook Neo gây áp lực lên toàn ngành laptop, Windows khó cạnh tranh nếu không hợp lực",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đánh giá ZiiGaat Arete 2: Một cặp tai nghe mà sở hữu tới 2 chất âm khác nhau?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sau 1 tuần đeo Xiaomi Watch 5: Gemini, Google Pay, cài nhiều app hay thật, nhưng hóa ra chế độ tiết kiệm pin mới là \"chân ái\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một vòng HP Imagine 2026: AI on-device, workstation 4 GPU, máy in thông minh và HP IQ kết nối hệ sinh thái",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bắt trọn từng cảm hứng cùng máy ảnh lấy liền instax™",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cận cảnh USB và thẻ nhớ SanDisk FIFA World Cup 2026 Edition dành cho fan môn thể thao vua",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Razer ra mắt Viper V4 Pro với polling 8.000 Hz và độ trễ click 0,204ms",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Casio Pro Trek x White Mountaineering: đồng hồ titan giá gần 26 triệu đồng xuất hiện ở Mỹ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "HP trình làng OMEN MAX 45L và OMEN 35L: PC gaming cao cấp với RTX 5090, chip Intel Core Ultra 7",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hisense mang công nghệ RGB mini-LED từ TV cao cấp sang màn hình gaming đầu tiên",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "HP ra mắt loạt thiết bị từ AI PC, workstation, gaming đến máy in, đẩy mạnh xử lý AI ngay trên thiết bị",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thời đại AI: Khi agency không còn bán “giờ làm việc” mà bán “kiềng 3 chân”",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Gần 90 triệu người Việt đang cầm trên tay công nghệ bảo mật cấp quân sự – nhưng rất ít người biết",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an cảnh báo nóng tới tất cả những người có tài khoản mua sắm Shopee, Lazada...",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhờ BIOS do Claude viết, chip Intel Bartlett Lake 12 P-core lần đầu chạy được trên bo mạch Z790 - nhưng vẫn chưa boot hoàn toàn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dùng điện thoại chụp lén tài liệu quy trình 2nm của TSMC để tuồn cho đối thủ, kỹ sư đối mặt mức án 14 năm tù",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "“Tôi không biết làm việc thế nào nếu thiếu nó” - hàng triệu người dùng ai oán khi DeepSeek sập 12 tiếng đồng hồ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "VNTT công bố Smart Robotics, hướng tới hệ sinh thái tự động hóa sản xuất và logistics",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Qualcomm chọn 28 startup Việt vào QVIC 2026: Khi AI, robot và IoT không còn là ý tưởng trên giấy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cận cảnh hệ thống loa array và cục đẩy công suất tại gian hàng PVSOUND ở Triển lãm Âm Thanh & Ánh Sáng 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI hủy kế hoạch phát triển chatbot người lớn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tin vui cho game thủ: OpenAI cắt siêu dự án, Google nén RAM AI xuống 6 lần - Giá DDR5 giảm mạnh nhất trong một tuần",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Người dùng MacBook rủ nhau làm máy \"kêu rên\", mua mất phí nhưng quay reel mà viral là được trả lại tiền",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tính năng cuộn vô tận bị đưa ra tòa, Meta mất 130 tỷ USD vốn hóa sau hai phán quyết liên tiếp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Geekbench gắn nhãn 'không hợp lệ' cho toàn bộ benchmark của Core Ultra 200S Plus vì IBOT",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI hút nhân tài, Apple cắn răng “rút hầu bao”, vung tiền thưởng tới 400.000 USD để giữ chân đội ngũ kỹ sư",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple dự định mở Siri cho các AI bên thứ ba trong iOS 27, thay đổi bước ngoặt trong chiến lược AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung AI TV gặt hái nhiều giải thưởng uy tín trong đầu 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vì sao đi xe máy đeo tai nghe dùng Google Maps bị phạt, còn lái ô tô thì không?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Arm ra mắt con chip đầu tiên sau 35 năm, Meta trở thành khách hàng mở màn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mark Zuckerberg giảm tham vọng metaverse, chuyển hướng sang AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Elon Musk công bố kế hoạch xây nhà máy chip cho Tesla, SpaceX",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đại diện HP: IT đang trở thành bộ phận then chốt, hơn 50% Gen Z có công việc phụ và chỉ 20% người lao động cảm thấy “ổn” với công việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bùng nổ xu hướng \"giáo viên YouTuber\" tại Hàn Quốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trải nghiệm Core Ultra 7 270K Plus: Một lời khẳng định \"Chúng tôi đã trở lại\" từ Intel?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OnePlus có thể rút khỏi Mỹ và châu Âu: Dấu hiệu \"thoái lui\" toàn cầu, bỏ luôn phân khúc cao cấp tại Ấn Độ?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mua RTX 5090 giá gần 85 triệu, nhận về... gói bột giặt: Cú lừa gây sốc ngay trên Amazon",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mua bán tài khoản Netflix, Spotify có thể bị phạt tới 50 triệu đồng từ 2026: Đề xuất mới siết chặt tình trạng \"dùng ké\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Windows 11 tồn tại 1 thứ khiến ngay cả sếp lớn Microsoft cũng bức xúc - không phải AI, không phải hiệu suất, mà chính là điều này",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Intel sắp tăng giá CPU PC khoảng 10%, người dùng không muốn cũng phải chịu!",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an ra thông báo quan trọng liên quan đến SIM điện thoại, người dân cần lưu ý",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trước 28/3, người từng giao dịch với tài khoản Techcombank và Vietcombank sau khẩn trương trình báo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hành vi có thể có thể bị phạt đến 20 triệu đồng khi livestream",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sàn tiền mã hóa ONUS gặp sự cố truy cập, nhà đầu tư không thể rút tiền",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot tạo động đất kiểu khủng long T. Rex để khai thác tài nguyên trên Mặt trăng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "World Cup 2026 được phát sóng miễn phí trên YouTube",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "TPHCM ra mắt “chợ công nghệ” thế hệ mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tưng bừng Sinh nhật Lazada 14 tuổi: Voucher đến 14 triệu, mua 1 tặng 1, voucher đến 50%",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Elon Musk: Google sẽ dẫn đầu cuộc đua AI tại phương Tây, Trung Quốc chiếm ưu thế trên địa cầu, còn SpaceX chinh phục không gian",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lầu Năm Góc lên kế hoạch huấn luyện AI bằng dữ liệu tối mật, đặt mục tiêu \"lực lượng tác chiến ưu tiên AI\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đồng sáng lập Supermicro bị bắt vì buôn lậu 2,5 tỷ USD chip AI Nvidia sang Trung Quốc, hé lộ màn kịch dùng máy sấy tóc tráo máy chủ giả",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Facebook thông báo một thay đổi quan trọng, người dùng nên chú ý",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot bảo vệ AI: Canh gác những trung tâm dữ liệu vô giá",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hơn 40% người dùng quay lưng với ChatGPT và Gemini vì lo ngại rò rỉ dữ liệu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Kỹ Sư Điện Tập Sự 2025: Kết nối đam mê – Bật sáng tương lai cho sinh viên ngành điện",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Người Nhện bỏ iPhone, Sony, đổi sang Galaxy Z Flip trong phần phim mới, nhưng cách dùng khiến fan thấy \"cấn\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hơn 60.000 nhân sự Samsung dọa đình công 18 ngày, yêu cầu được tăng lương và thưởng: Chuỗi cung ứng chip lại gián đoạn?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tin buồn cho người chờ mua iPhone 18 Pro",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công ty Ngân Lượng từng 'hái ra tiền' của Shark Bình quy mô thế nào?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an cảnh báo tin nhắn Zalo, SMS có thể khiến tài khoản ngân hàng bị rút sạch",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vịnh Hạ Long sẽ được phủ sóng Starlink",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sau tất cả, giao diện Lazada giờ đã thực sự dễ dùng?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một “cuốn từ điển” khởi kiện OpenAI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO NVIDIA Jensen Huang đáp trả tranh cãi về DLSS 5: người dùng \"đã hoàn toàn sai\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ra mắt AI để vá lỗi OpenClaw, hãng bảo mật lớn nhất Trung Quốc tự tay tặng hacker chìa khóa toàn bộ hệ thống",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "UAV làm Vietnam Airlines thiệt hại khoảng 5,6 tỉ đồng trong 1 tuần, ảnh hưởng 9.200 hành khách",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an phát thông báo quan trọng về thiết bị WiFi nhiều người đang dùng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Kiếm tiền từ Affiliate trên TikTok, Shopee có phải tự quyết toán thuế? Cục Thuế nói rõ 2 trường hợp dễ nhầm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Elon Musk chào mời gói cước 2,2 triệu đồng/năm ở Việt Nam: Giá đắt gấp 10 lần, liệu có thể cạnh tranh?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "10 chuỗi bán lẻ công nghệ nổi bật tại Việt Nam: Phân hóa rõ rệt từ hệ thống đại trà đến chuyên sâu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ổ C trên Windows 11 bị lỗi không truy cập được, Microsoft nói tại Samsung",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhờ Huawei giúp sức, Trung Quốc có hãng đúc chip thứ 2 sản xuất được chip 7nm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Giá RAM tăng cao chưa từng thấy, tại sao Samsung và SK Hynix không chịu sản xuất thêm? Câu trả lời nằm ở 2028",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngân hàng chỉ đích danh ứng dụng chứa rủi ro mất tiền, người dùng nên gỡ gấp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cảnh báo 3,5 tỷ người dùng Chrome về lỗ hổng bảo mật Zero-Day mới được phát hiện",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mã độc mới lây nhiễm hơn 14.000 thiết bị mạng toàn cầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công an thông báo nóng đến tất cả những ai nhận được cuộc gọi nhỡ có dấu hiệu này",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lần đầu tại Việt Nam: Ra mắt UAV chữa cháy bầy đàn, tiếp cận cả hẻm sâu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mifan cùng TGDĐ giải mã sức hút “nhiếp ảnh nguyên bản” của Leica trên Xiaomi 17 Series",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Metro không chỉ để đi lại: Doanh nghiệp công nghệ đề xuất biến đường sắt đô thị thành “nền tảng dữ liệu” của thành phố",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hạ tầng AI cũ đã chạm ngưỡng, AMD, NVIDIA, Microsoft và OpenAI lập liên minh tạo bước ngoặt mới về công nghệ hạ tầng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Microsoft hé lộ chi tiết về Project Helix, console Xbox thế hệ mới với sức mạnh vượt trội",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Lịch sử nợ xấu trên CIC bao lâu mới được xóa và được vay lại?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "9/11 nhà đồng sáng lập xAI dứt áo ra đi, tham vọng lật đổ ChatGPT của Elon Musk có nguy cơ phá sản",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Được đầu tư cả trăm tỷ USD, AI Meta vẫn gây thất vọng, Mark Zuckerberg dự tính thuê Gemini AI của Google để dùng tạm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hãng công nghệ lớn nhất Australia sa thải 1.600 nhân sự vì AI, hàng loạt doanh nghiệp trong ngành cũng cắt giảm lao động",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ChatGPT trở thành \"tòng phạm\" trong vụ xả súng chấn động, Elon Musk cũng phải thốt lên: \"điên rồi\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "2 tỷ người dùng Google Maps sắp trải nghiệm điều chưa từng có: AI biến ứng dụng bản đồ thành người tư vấn dẫn đường",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thương mại điện tử sang giai đoạn mới: Cuộc đua xây hạ tầng cho nhà bán",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mỹ lần đầu xác nhận sử dụng AI trong chiến dịch tấn công Iran",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hơn 80% người Việt đang 'sống' cùng AI: Phó Chủ tịch Google thừa nhận một sự thật tại thị trường Đông Nam Á",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Giải mã \"công thức vàng\" đưa mạng 5G Việt Nam vươn lên dẫn đầu Đông Nam Á",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nghịch lý WinRAR: Dùng thử 40 ngày nhưng chẳng khác gì freeware, vẫn tạo ra nguồn thu lớn đều đặn mỗi năm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mạnh tay chặn adblock của người dùng, doanh thu quảng cáo của YouTube đạt kỷ lục, đánh bại 4 đại gia truyền hình Hollywood",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Không phải xăng hay dầu, một mặt hàng tưởng như “chẳng liên quan” cũng sẽ chịu ảnh hưởng từ xung đột Trung Đông",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta thâu tóm Moltbook - mạng xã hội dành riêng cho AI agents",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chiến dịch marketing Tết của YADEA tại Việt Nam bước vào chặng cuối",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "MediaTek trình diễn loạt công nghệ mới tại MWC 2026: AI cho 6G, Wi-Fi 8 và kính thông minh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mùa event Genshin dày đặc: Vì sao nhiều game thủ chọn chuẩn bị thẻ game",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thông báo khẩn cho hàng triệu người dùng iPhone",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "FPT bắt tay đối tác quốc tế đào tạo nhân lực cho các ngành mũi nhọn AI, bán dẫn, an ninh mạng và UAV",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vũ khí hack iPhone của chính phủ Mỹ bị tuồn ra chợ đen, vét sạch ví tiền ảo của người dùng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công nghệ Ý hỗ trợ người dùng chủ động kiểm soát không gian riêng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Loạt sản phẩm công nghệ giảm giá, làm Quà She Mê dịp 8/3",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cách e-commerce giải bài toán mua quà cá nhân hoá từ local brand",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hai trang web quen thuộc với cư dân internet vừa đổi chủ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Không bán được chip AI H200 nào cho Trung Quốc, NVIDIA đành dừng sản xuất",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "VN làm thành công dự án đầu tiên trên TG trong lĩnh vực nuôi sống một nửa nhân loại: Vừa áp dụng robot AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chuyện gì khiến fanpage Thông tin Chính phủ phát cảnh báo?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một ngân hàng nổi tiếng sa thải thải 2.500 nhân sự vì AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vì sao 'Xôi Lạc TV' tung hoành 10 năm mới bị triệt phá?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Samsung mở ra kỷ nguyên mới cho giải trí tại gia ở Đông Nam Á và Châu Đại Dương",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Vụ Xôi Lạc TV: Nhiều bình luận viên có tiếng \"Người dơi\", Batman, \"Người rơm\"... bị bắt",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nóng: Khởi tố 30 bị can trong hệ thống 'Xôi Lạc TV'",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Làm sao mà laptop như Macbook Neo lại rẻ hơn điện thoại như iPhone 17e?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngành nghề nào đang trở thành “hạ tầng” cho nền kinh tế số?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Kỹ năng tự động hoá công việc: Mảnh ghép còn thiếu của dân văn phòng",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "AI đang thay đổi cách học kỹ năng IT thế nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cloud và vai trò trong quản lý tuyển dụng doanh nghiệp",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Xu hướng công nghệ hỗ trợ tuyển dụng hiện đại: Tối ưu quy trình,...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Sinh viên không học IT vẫn có thể làm trong ngành công nghệ, được...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Martech là gì? Tại sao học ngành marketing nên biết?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "So sánh chi tiết iOS 18 vs iOS 26: Cuộc cách mạng trên iPhone...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BenQ RD Series – Dòng Màn Hình Lập Trình 4k+ Đầu Tiên Trên Thế...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "iOS 18 có gì mới? Có nên cập nhật iOS 18 cho iPhone của...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Gamma AI là gì? Cách tạo slide chuyên nghiệp chỉ trong vài phút",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Power BI là gì? Vì sao doanh nghiệp nên sử dụng PBI?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "KICC HCMC x TOPDEV – Bước đệm nâng tầm sự nghiệp cho nhân tài...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Trello là gì? Cách sử dụng Trello để quản lý công việc",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "TOP 10 SỰ KIỆN CÔNG NGHỆ THƯỜNG NIÊN KHÔNG NÊN BỎ LỠ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tìm hiểu Laptop AI – So sánh Laptop AI với Laptop thường",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "MySQL vs MS SQL Server: Phân biệt hai RDBMS phổ biến nhất",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "SearchGPT là gì? Công cụ tìm kiếm mới có thể đánh bại Google?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cách tích hợp ChatGPT vào Google Search siêu dễ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "VoiceGPT là gì? Giới thiệu tính năng và cách cài đặt sử dụng Voice...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "GPT-4o Mini – Thông minh hơn và tiết kiệm hơn?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "ChatGPT-4o là gì? Điểm mới của ChatGPT-4o vs ChatGPT-4",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chat GPT 4.0 là gì? Có gì vượt trội so với Chat GPT phiên...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cách tự học code web, tìm kiếm công việc dễ dàng và hạnh phúc...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Giới thiệu 15 website học và luyện hack hợp pháp",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tầm quan trọng của các chương trình đào tạo sau đại học trong kỷ...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "iOS 17.5 Beta 1 vừa được phát hành, những thay đổi nào đáng chú...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "iOS 18 khi nào ra mắt? iOS 18 sẽ không hỗ trợ máy nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Về Logging: Mắt thần của bạn trên hệ thống thực",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Middlewares – Sự tùy biến trong ứng dụng phần mềm",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Đón đầu 7 xu hướng công nghệ hàng đầu trong năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Thực hiện “Chuẩn Hóa CV” nhận ngay quà hấp dẫn",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "METRO.digital Vietnam culture and ways of working",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "GW2790QT – Màn hình 2K tốt nhất dành cho lập trình viên",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "So sánh AWS, Google Cloud và Azure năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Data Analyst là gì? Khám phá công việc của Data Analyst",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Công nghệ nào đứng sau AI tạo ra MC ảo đang hot rần rần?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Dân IT có thể được ChatGPT hỗ trợ code tự động hóa như thế...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Học IT có khó không? 6 khó khăn khi theo học ngành CNTT",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "ĐỐI THOẠI VỚI DOANH NGHIỆP HÀN QUỐC VỀ PHÁT TRIỂN NHÂN LỰC CHẤT LƯỢNG...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "KICC HCMC x TOPDEV – Nắm giữ sứ mệnh chắp cánh cho nhân tài...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Segment Anything Model – Bước đột phá mới của Meta AI",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Ngành IT vẫn HOT dù đứng giữa “tâm bão” suy thoái kinh tế",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Scrum Master là gì? Tìm hiểu các vai trò chính của Scrum Master",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Game blockchain là gì? Khám phá tiềm năng thị trường game blockchain",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Những cải tiến đáng giá của Python 3.12",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "[Update] Điểm tên TOP 5 công nghệ mới đang HOT trong năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "10 tính năng trên Apache Spark anh em nên biết",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "GRPC là gì? Điều gì giúp GRPC trở nên mạnh mẽ?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "WebAssembly – Tương lai của các ứng dụng Web",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tìm hiểu ngôn ngữ lập trình và xếp hạng 15 NNLT phổ biến nhất...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Giới thiệu 11 nhóm ngành công nghệ thông tin mới nhất hiện nay",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Mô hình ngôn ngữ LaMDA – Công nghệ đứng sau chatbot AI Bard của...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "DRM là gì? DRM hoạt động như thế nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "NFT tiềm năng hay “bong bóng công nghệ”?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "[Update] Low Code là gì? Hướng đi nào cho Low Code 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "ChatGPT liệu có làm lập trình viên mất việc? – Phần 1",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Facebook giới thiệu LLaMA tạo siêu AI cạnh tranh với ChatGPT",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Blockchain developer là gì? Giải ngố những hiểu lầm",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Digital Twins – xu hướng công nghệ cho ngành IoT",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chức danh Senior, Developer là gì? Khác gì với coder nhỉ!",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Công nghệ Blockchain là gì? Tiềm năng & ứng dụng thực tế ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Phiên bản LTS là gì? Khi nào nên sử dụng phiên bản LTS",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chat GPT là gì? Ứng dụng tuyệt vời và cách chatGPT hoạt động",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Embedded Developer là gì? Cần học gì để trở thành Embedded Developer",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "7 Xu hướng Mobile Marketing đáng mong chờ nhất năm 2023",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Giới thiệu về ngân hàng NAB & NICV",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "10 xu hướng ứng dụng di động dự đoán sẽ thống trị năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "5 xu hướng của ngành kiểm thử tự động trong năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Top 5 tips and tricks hot nhất của JavaScript năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "2024 tới rồi – Dưới đây là 5 startup tech trend sẽ phát triển",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "12 Thư viện JavaScript trực quan hoá dữ liệu hot nhất năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Sách hay nhất dành cho lập trình viên (2024)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Xu hướng tuyển dụng IT năm 2024 mà mọi HR Manager cũng như IT...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Digital Transformation – xu hướng trong năm 2024 và hơn thế nữa",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "IoV (Internet of vehicle) là gì? Kiến trúc IoV",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cảm giác khi bạn viết CSS như thế nào trong năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Introducing The LeapXpert Communication Platform",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "NFQ mở rộng tại Châu Phi, khẳng định năng lực phát triển công nghệ...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tăng trưởng kinh doanh đa kênh Omnichannel – Bùng nổ doanh số 2023 cùng...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Thông não về các khái niệm Web1, Web2, Web3",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Why Your Data is Safest in a Cloud ERP System",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "TINOHOST – ĐƠN VỊ CUNG CẤP HOSTING GIÁ RẺ HÀNG ĐẦU VIỆT NAM",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "FPT Jetking đồng hành cùng sự kiện VietNam Web Summit 2022",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Vietnam Web Summit 2022: Serverless Architecture, Web3 và Data-driven – Bệ phóng đưa ngành...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tình hình hiện tại và tương lai của IoT năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Hội nghị Devcon 2022 dành cho cộng đồng Ethereum",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BÁO CÁO THỊ TRƯỜNG IT VIỆT NAM NĂM 2022: Từng bước thay đổi hướng...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "The Merge – Bước tiến quan trọng của blockchain Ethereum",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BlenderBot 3 – Chatbot AI “nói xấu” Mark Zuckerberg",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Năng lực tự quản lý bản thân trong môi trường làm việc phi tập trung",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "IT không chỉ phục vụ công nghệ – mà đang định hình cách doanh nghiệp vận hành",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cách các ngành khác học tư duy Agile từ IT để đẩy nhanh tiến độ công việc",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Khi Dev phải làm việc với Data Team – Khác biệt tư duy và cách phối hợp hiệu quả",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Portfolio IT – Có nên đưa code demo, case study hay chỉ kết quả?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cơ hội cho lập trình viên Low-code/No-code trong tương lai gần",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tư duy ưu tiên (Prioritization Thinking) – Cách người giỏi chọn việc để làm",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cơ hội nghề nghiệp trong ngành AI Ops – Khi doanh nghiệp cần người...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Dev làm việc với QA: Những hiểu nhầm thường gặp và cách xử lý",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tư duy hệ thống (Systems Thinking): Kỹ năng mới cho mọi nghề nghiệp",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Thực tế nghề DevOps: Làm gì ngoài việc “cứu server”?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Làm chủ kỹ năng học nhanh (Fast Learning) – Vũ khí bí mật của...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Khi lập trình viên làm việc cùng UX Designer – Cách dung hòa hai...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "IT không chỉ code, mà còn phải biết kể chuyện với dữ liệu",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Creative Technologist – Nghề mới kết hợp giữa sáng tạo và lập trình",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Gen Z và thị trường việc làm IT: Cơ hội thật hay chỉ là...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Coder học cách làm marketing cá nhân để không bị “chìm” trong thị trường",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "AI đang thay đổi cách học kỹ năng IT thế nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Từ coder sang product owner: Hành trình không hề dễ dàng",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Khi developer phải hiểu SEO và marketer phải biết code cơ bản",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cybersecurity – Lĩnh vực ít người theo nhưng nhu cầu nhân lực tăng vọt",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Prolog là gì? Ứng dụng của ngôn ngữ lập trình logic trong AI và...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Live Coding – Bài Test Phỏng Vấn IT Có Làm Khó Bạn? Cách Vượt...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Lập trình viên thời AI: Cần học khác đi như thế nào để không...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Lộ trình học Front-end Developer từ con số 0 đến đi làm trong 6...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "AI, Cloud và Big Data – Ngành học nào đang bám sát xu hướng...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Xu hướng công nghệ hỗ trợ tuyển dụng hiện đại: Tối ưu quy trình,...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Biến và kiểu dữ liệu cơ bản trong Python",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Kinh nghiệm xử lý responsive table hiệu quả",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Stackoverflow là gì? Bí kíp tận dụng Stack Overflow hiệu quả",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "7 kinh nghiệm hữu ích khi làm việc với GIT trong dự án",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Bài tập Python từ cơ bản đến nâng cao (có lời giải)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Bảo mật API là gì? Một số nguyên tắc và kỹ thuật cần biết",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Hướng dẫn cài đặt và tự học lập trình Python cơ bản từ A-Z",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chinh Phục Phân Tích Dữ Liệu Với Pandas Trong Python: Hướng Dẫn Từng Bước",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Display CSS là gì? Cách khai báo và sử dụng thuộc tính display trong...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Compiler là gì? Công việc cụ thể của một trình biên dịch",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Replace Python và cách sử dụng",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Thoughtworks: Nơi công nghệ chạm đích đến",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Đại dương xanh cho Doanh nghiệp tăng trưởng bền vững trên Zalo",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Lakehouse Architecture: Nền tảng dữ liệu cho ứng dụng AI trong tương lai",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Giải Quyết Bài Toán Kinh Doanh Bằng Big Data và AI",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BenQ RD Series – Dòng Màn Hình Lập Trình 4k+ Đầu Tiên Trên Thế...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Framework nào tốt nhất cho dự án của bạn? – Checklist chi tiết",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Ngôn ngữ R là gì? Có nên chọn học ngôn ngữ lập trình R?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Ngôn ngữ lập trình SAP ABAP thu nhập khủng ít ai biết!",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Nâng tầm kỹ năng JavaScript: 6 khái niệm không thể bỏ qua",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cơ sở dữ liệu vector (Vector Database) – Cách sử dụng chi tiết",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Bỏ túi cheatsheet PostgreSQL hữu ích cho mọi developer",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Claude AI là gì? Tìm hiểu đối thủ đáng gờm của ChatGPT",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "8 tips hữu ích giúp BA khai thác thông tin từ stakeholder",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "7 vị trí CNTT không cần code giỏi mà vẫn thành công",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BA làm gì trong một dự án phần mềm? (P1)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BA làm gì trong một dự án phần mềm? (P2)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Giải thuật Shell Sort và cách triển khai bằng ngôn ngữ lập trình Python",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Jest là gì? Hướng dẫn thực hiện kiểm thử JavaScript với Jest",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Strict Mode trong JavaScript – Sử dụng Strict Mode như thế nào cho tốt?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Mảng 2 chiều trong C++: Ví dụ và các bài toán liên quan",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Copilot là gì? Trợ lí ảo AI từ Microsoft (Bing AI)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "6 vùng kiến thức mà Business Analyst nào cũng phải biết!",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Prettier là gì? Hướng dẫn định dạng code với Prettier trong dự án",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "RDBMS là gì? Khám phá hệ quản trị cơ sở dữ liệu quan hệ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "CRM là gì? Giải thích CRM đơn giản ai cũng hiểu",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Đừng để hệ thống bị tấn công bởi 4 vấn đề security cơ bản...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cloud Engineer là gì? Những kỹ năng cần có của một Cloud Engineer",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Swagger và Postman: 8 điểm khác nhau bạn nên biết",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tản mạn về Software và Product: Một vài suy nghĩ vu vơ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tìm hiểu về Intl.RelativeTimeFormat trong JavaScript",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Check list các kỹ năng cần phải có của người làm BA (Phần 2)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Check list các kỹ năng cần phải có của người làm BA (Phần 1)",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "15 GitHub Repositories giúp lập trình viên phát triển kỹ năng",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Non-Functional Requirements là gì và nó quan trọng như thế nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Sharding trong Citus Data không hề đơn giản như bạn nghĩ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "BPMN là gì và sự lợi hại của nó",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Mới ra trường không kinh nghiệm, sao làm BA?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chuyển đổi SA key sang Workload Identity",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Từ khóa final trong Java",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Use Case Diagram và 5 sai lầm thường gặp",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Kinh nghiệm xử lý câu lệnh điều kiện trong JavaScript",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Dart là gì? Ứng dụng của ngôn ngữ lập trình Dart",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chuẩn Hóa CV, Nhận Ngay Phím Chất",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "So sánh MySQL và MongoDB: Nên chọn CSDL nào?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Dân BA có cần phải rành về kỹ thuật???",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "CSS Selector là gì? Cách sử dụng các loại CSS Selector phổ biến",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Phân biệt Sketch, Wireframe, Mockup, và Prototype?",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cách tích hợp ChatGPT vào Google Search siêu dễ",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "PM2 là gì? Trình quản lý các ứng dụng viết bằng NodeJS",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tìm hiểu ngành kỹ thuật máy tính: Học gì? Học ở đâu? Cơ hội...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tổng hợp kiến thức từ cơ bản đến chuyên sâu về Mạng máy tính...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tổng hợp kiến thức từ cơ bản đến chuyên sâu về Mạng máy tính...",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Hướng dẫn cách tạo ứng dụng Convert video sang GIF",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "IDE C++ là gì? Tiêu chí lựa chọn IDE cho lập trình C++",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Acceptance Test là gì? Phân loại Acceptance Testing",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Tổng hợp 50+ thuật ngữ chuyên ngành dành cho Frontend Developer",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Hàng đợi – Queue trong C++",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Prototype là gì? Ưu và nhược điểm của mô hình Prototype",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Cập nhật điểm chuẩn ngành CNTT các trường đại học năm 2024",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Posthog là gì? Công cụ thu thập dữ liệu người dùng hiệu quả",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "CORS error là gì? Cách xử lí các lỗi CORS phổ biến",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "IoT là ngành gì? Học trường nào tốt và cơ hội nghề nghiệp",
+    "source_name": "TopDev-Việc làm IT hàng đầu Việt Nam"
+  },
+  {
+    "title": "Chatbot xu nịnh - mặt trái của AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lý do thúc đẩy OpenAI đóng cửa Sora",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Năng lượng rẻ - 'át chủ bài' của Trung Quốc trong cuộc đua siêu AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Wikipedia cấm nội dung AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà sáng lập thứ 11 'rời xAI'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google cho dịch cuộc nói chuyện trực tiếp bằng iPhone",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google công bố thuật toán nén 'siêu hiệu quả' cho AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Triệu chứng lạ khi lạm dụng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nvidia xây 'thành trì mới' sau thành công với chip AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Việt Nam quản lý AI thế nào theo luật mới?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenAI đóng cửa ứng dụng Sora",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Mặt trái của nghề bán dữ liệu cá nhân cho AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Jensen Huang: 'Siêu trí tuệ AGI đã xuất hiện'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Apple sẽ giới thiệu loạt 'tiến bộ về AI' ngày 8/6",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giải pháp phân tích sóng não để luyện thi giành giải hackathon AI tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Mark Zuckerberg tạo 'tác nhân CEO' hỗ trợ chính mình",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenAI đang tạo siêu ứng dụng trên máy tính",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "300.000 doanh nghiệp nhỏ và vừa sẽ được hỗ trợ dùng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Memories AI - công ty tạo 'ký ức' cho robot và thiết bị đeo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Startup Việt phát triển nền tảng AI cho đồ chơi tại Mỹ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Anthropic, OpenAI tuyển chuyên gia ngăn 'bom bẩn' cho AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lập trình viên Việt xoay xở thế nào khi AI làm giảm thu nhập",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'AI đang thay đổi cách cảnh báo thiên tai'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cơn sốt AI kéo Gen Z vào nghề thợ điện",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nvidia ra 'OpenClaw phiên bản bảo mật'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cơn sốt OpenClaw 'đảo chiều' tại Trung Quốc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ông chủ ChatGPT: AI đang trở thành 'vật tế' cho sa thải",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Meta có thể sa thải nhân viên quy mô lớn vì AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cuộc thi Sáng kiến Khoa học 2026 thu hút nhiều giải pháp AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google Maps đại tu, thêm tính năng hỏi đáp",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Meta bắt đầu sản xuất hàng loạt chip AI riêng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lập trình viên Việt giữa 'dòng xoáy' tác nhân AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cơn sốt OpenClaw 'càn quét' Trung Quốc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Quảng cáo trong ChatGPT đang được triển khai thế nào",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nền tảng tác nhân AI FPT nhận bằng sáng chế quốc tế",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Oracle bắt tay công ty chip AI đối thủ của Nvidia, AMD",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Quá tải não vì AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "TP HCM khởi công Trung tâm dữ liệu AI hơn 2 tỷ USD dịp 30/4",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Meta mua lại Moltbook - mạng xã hội của AI 'nổi loạn'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Xu hướng người trẻ đẩy cuộc trò chuyện khó cho AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenClaw - tác nhân AI nguồn mở gây sốt toàn cầu",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà phát triển AI Claude kiện Lầu Năm Góc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenAI hủy kế hoạch mở rộng siêu trung tâm dữ liệu Stargate",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Startup AI trước bài toán tuân thủ quy định về trí tuệ nhân tạo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hikvision công bố ấn phẩm về thực hành AI có trách nhiệm",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "AI được sử dụng trong xung đột Trung Đông thế nào",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ứng dụng AI Claude thu hút một triệu lượt tải mỗi ngày",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nền tảng AI Việt nằm top sử dụng nhiều nhất Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Người già Trung Quốc xếp hàng để được 'chỉ tận tay' về AI Agent",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenAI ra mắt GPT-5.4 hạn chế 'ảo giác'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lầu Năm Góc đưa Anthropic vào danh sách 'rủi ro chuỗi cung ứng'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "GenAI đang tạo ra giá trị thực cho doanh nghiệp",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá DRAM biến động theo giờ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "46% vụ tấn công DDoS tại Việt Nam sử dụng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sam Altman thừa nhận vội vã khi 'khoe' hợp đồng quân sự",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Bốn điểm mới trong Luật Trí tuệ nhân tạo của Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Mô hình AI Trung Quốc dẫn đầu thế giới về token",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Làn sóng tẩy chay ChatGPT",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "FPT có tân giám đốc công nghệ 8X",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chatbot Anthropic đứng đầu bảng ứng dụng miễn phí App Store Mỹ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "ChatGPT chạm mốc 900 triệu người dùng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Phân loại AI rủi ro cao: Phép thử đầu tiên của Luật Trí tuệ nhân tạo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Quảng cáo gây sốt với viễn cảnh 'CEO công nghệ già đi, AI thống trị'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Công ty Mỹ tạo hệ điều hành cho robot hình người Trung Quốc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chủ tịch Samsung: 'Tác nhân AI đang gần gũi hơn nhờ smartphone'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Burger King thử nghiệm tai nghe AI theo dõi nhân viên",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google nâng cấp AI tạo ảnh 'chân thực'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Jensen Huang: 'Sai lầm khi nói AI đe dọa ngành phần mềm'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhân viên Uber tạo bản sao AI của CEO",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Meta chi hàng chục tỷ USD mua chip AI của AMD",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hai kỹ sư FPT ghi dấu ấn tại hội nghị AI hàng đầu thế giới",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'AI là phép thử về năng lực thích nghi của người lao động Việt Nam'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sam Altman phản bác AI ngốn năng lượng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Anthropic tố ba công ty AI Trung Quốc 'chưng cất diện rộng'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chip nhớ trở thành điểm nghẽn phát triển AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ông chủ ChatGPT: Nhiều công ty viện cớ triển khai AI để sa thải",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hai doanh nhân gốc Hoa có thêm 14 tỷ USD nhờ cơn khát chip nhớ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Seedance 2.0 và kỷ nguyên 'đoàn làm phim một người'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hai kiểu người dùng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cách Musk và OpenAI thu hút nhân tài AI qua chiếc pizza",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Elon Musk chê AI của đối thủ 'đạo đức giả'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Phim ngắn Trung Quốc tạo bằng AI hút hàng tỷ lượt xem",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chuyên gia Anh: 'Cuộc đua AI đe dọa sự an toàn của loài người'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cha đẻ Clawdbot đầu quân cho OpenAI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà phát triển AI Trung Quốc chạy đua thu hút người dùng dịp Tết",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Tin tặc dùng 100.000 câu lệnh hòng sao chép Google Gemini",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giới công nghệ nói gì về 'tận thế ngành phần mềm'?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hollywood phản ứng với video AI 'Tom Cruise đấu Brad Pitt'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "OpenAI lần đầu vận hành mô hình bằng chip không phải của Nvidia",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "AI đang biến đổi lực lượng lao động Trung Quốc thế nào",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Công nghệ OpenAI được thử nghiệm điều khiển UAV bầy đàn",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lợi thế của sản phẩm trí tuệ nhân tạo Việt",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nữ diễn viên 'đòi lại' khuôn mặt từ bộ trưởng AI của Albania",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Thú cưng AI - hiện tượng mới tại Trung Quốc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Website cho phép AI 'thuê' con người",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Moltbook - mạng xã hội của những AI 'nổi loạn'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Gemini vượt 750 triệu người dùng hoạt động hàng tháng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hoài nghi 'sa thải vì AI' là chiêu tẩy trắng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "SpaceX xin phóng một triệu vệ tinh làm trung tâm dữ liệu AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "CEO Nvidia lên tiếng về tin đồn bất hòa với OpenAI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sếp Anthropic 'dùng 100% AI' để viết mã",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Mark Zuckerberg: Khó hình dung tương lai thiếu kính AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'Kỳ lân công nghệ' hết hiếm",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Kling - AI Trung Quốc thách thức OpenAI Sora, Google Veo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Startup AI vào top 10 hệ sinh thái khởi nghiệp TP HCM",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "ChatGPT trích dẫn câu trả lời từ Grokipedia của Musk",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nỗi lo khi AI tạo nên 'cuộc cách mạng tự chủ'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhiều doanh nghiệp bối rối vì AI không giúp tăng doanh thu",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Grok 'tạo ba triệu ảnh nhạy cảm trong 11 ngày'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhiều người chọn ChatGPT thay Google Search làm trang chủ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cuốn sách giúp hiểu toàn bộ vòng đời của một ứng dụng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "GS Yuval Noah Harari: Con người hiểu sai và 'nghĩ ngắn' về AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "DeepSeek sau một năm gây sốt toàn cầu",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Musk tái khởi động dự án siêu máy tính Dojo 3",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Eaera thúc đẩy ứng dụng AI giảm rủi ro trong tài chính",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Musk muốn rút ngắn lộ trình thiết kế chip AI xuống 9 tháng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hơn 1.400 nhiệm vụ khoa học công nghệ triển khai trên cả nước",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Tránh 'án' bản quyền, nhiều cộng đồng ebook tại Việt Nam đóng cửa",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Kiosk thông minh giúp làm thủ tục hành chính dưới 5 phút",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Zalo nhận bằng khen cho ứng dụng cảnh báo, ứng phó thiên tai",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Shinhan Bank tích hợp VNeID vào quy trình định danh điện tử người dùng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lập sàn giao dịch tiền mã hóa giúp ngăn lừa đảo mạng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Apple sắp ra nền tảng quản trị miễn phí cho doanh nghiệp",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Vì sao Starlink chỉ được phép có 600.000 thuê bao tại Việt Nam?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google Maps cập nhật bản đồ đến cấp xã, phường ở Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Bán tài khoản YouTube, Netflix, Spotify dùng chung có thể bị phạt 50 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Vì sao mạng 3G, IoT không bắt buộc quản lý chất lượng?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ba tên miền hai ký tự được đấu giá gần hai tỷ đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "300.000 doanh nghiệp nhỏ và vừa sẽ được hỗ trợ dùng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'Cần ưu tiên bảo vệ dữ liệu cá nhân trong nền kinh tế số'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Việt Nam đứng đầu Đông Nam Á về nguy cơ mã độc từ USB",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giải pháp AI về tư vấn dược của FPT được thương mại hóa",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Một tên miền Việt Nam được bán giá 217 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google Maps bắt đầu cập nhật bản đồ hành chính của Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lập trình viên Việt xoay xở thế nào khi AI làm giảm thu nhập",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá Starlink chênh thế nào so với dịch vụ Internet tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Internet vệ tinh Starlink dự kiến có giá 2,2 triệu mỗi tháng tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Khai trương trung tâm dữ liệu tỉnh Thái Nguyên",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Internet vệ tinh Starlink phù hợp cho ai ở Việt Nam?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Đề xuất dịch vụ công chủ động nhắc nhở, chuẩn bị hồ sơ cho người dân",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Startup AI trước bài toán tuân thủ quy định về trí tuệ nhân tạo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Viettel tìm kiếm tài năng 8 lĩnh vực công nghệ lõi",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Đề xuất hỗ trợ đến 100% phí thuê giải pháp công nghệ số cho hộ kinh doanh",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "GenAI đang tạo ra giá trị thực cho doanh nghiệp",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Starlink hé lộ tốc độ 5G từ không gian",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "46% vụ tấn công DDoS tại Việt Nam sử dụng AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Mạng 5G Việt Nam lần đầu vượt 500 Mbps",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà mạng Việt Nam được công nhận '5G tốt nhất Đông Nam Á'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Viettel sẽ thử nghiệm 6G vào năm 2028",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "FPT, Viettel, VNG gia nhập liên minh phát triển 6G toàn cầu",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "TP HCM đề nghị ba nhà mạng cùng phát triển, thí điểm 6G",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Phân loại AI rủi ro cao: Phép thử đầu tiên của Luật Trí tuệ nhân tạo",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hà Nội nghiên cứu dùng UAV để giám sát trên không",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Việt Nam lần đầu đấu giá tên miền '.vn'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hoài niệm thời 'căn từng giây' khi gọi di động",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cáp quang biển AAE1 gặp sự cố",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "TP HCM sẽ đánh số nhà bằng công nghệ GIS",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "TP HCM thử nghiệm mạng 6G trong năm nay",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Người dùng di động Việt ngày càng ít gọi thoại",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'AI là phép thử về năng lực thích nghi của người lao động Việt Nam'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chuyên gia Adobe: 'Website của Vietnam Airlines tăng trải nghiệm thông minh'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá dịch vụ Internet vệ tinh Starlink thế nào",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Địa điểm đặt bốn trạm mặt đất Starlink tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Hậu trường robot Trung Quốc tập parkour, múa côn cho gala năm mới",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ứng dụng phim ngắn lên ngôi ngày Tết",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "'Mùa đông bộ nhớ' đẩy giá đồ điện tử 2026",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Starlink được cấp phép Internet vệ tinh tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà mạng ứng cứu nhau nếu có sự cố dịp Tết",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lừa đảo 'AI hóa' bủa vây người dùng dịp cận Tết",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhà mạng dùng AI tối ưu kết nối, giảm nghẽn dịp Tết",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Metfone của Viettel định hướng chuyển sang mô hình tập đoàn công nghệ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Google: Người Việt chuẩn bị Tết 2026 trước ba tháng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Nhiều 'ông lớn' cam kết đầu tư hạ tầng dữ liệu tại TP HCM",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cán bộ xã ở TP HCM có AI hỗ trợ công việc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "LG cải tiến công nghệ hiển thị trên TV OLED",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá smartphone cao cấp đang tăng thế nào tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Điện thoại Oppo bắt đầu dùng được AirDrop với iPhone",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giải pháp máy chủ gọn nhẹ dành cho SME",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá RAM bất ngờ giảm",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Smartphone tầm trung dùng quạt tản nhiệt",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Poco X8 Pro - điện thoại 8 triệu đồng có camera hỗ trợ OIS",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Ưu điểm của Macbook Neo trong phân khúc laptop tầm trung",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Loạt tính năng mới trên iOS 26.4",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Apple ngừng sản xuất Mac Pro",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sắp áp dụng quy chuẩn an toàn cho smartphone tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Vivo V70 - smartphone cận cao cấp dùng ống kính Zeiss",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Galaxy A57 và A37 5G nâng cấp công nghệ camera, AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cần làm gì khi bị thất lạc iPhone?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "iPhone gập có thể sử dụng kính bảo vệ dạng 'bánh kẹp'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Saramonic Air SE - micro khử ồn bằng AI cho smartphone",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Những điểm mới trên hệ điều hành Xiaomi HyperOS 3",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Samsung xác nhận Galaxy S26 hỗ trợ AirDrop",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "5 tính năng ẩn hữu ích trên iPhone",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "iPhone 18 có thể hồi sinh' dòng Plus",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Dreame X60 Ultra – rẻ hơn bản tiền nhiệm 10 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Màn hình 5,5 triệu đồng có tần số quét 240 Hz",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Thiết bị tạo 'lá chắn thứ ba' cho dữ liệu",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Amazon 'chuẩn bị quay lại thị trường smartphone'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Oppo Find N6 - smartphone 'ẩn' nếp gấp, hỗ trợ bút AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Doanh số iPhone tăng mạnh tại Trung Quốc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Laptop HP tích hợp AI rút ngắn thời gian xử lý đa nhiệm",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Poco X8 Pro Max - cấu hình mạnh, pin 8.500 mAh",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Tình trạng thiếu hụt chip nhớ 'kéo dài đến năm 2030'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Loạt laptop chạy Core Ultra Series 3 đầu tiên tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Samsung dừng bán điện thoại gập ba Z TriFold sau 3 tháng ra mắt",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Roborock Saros 20 nâng cấp lực hút và khả năng vượt rào",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Lý do Galaxy Buds4 bỏ qua thiết kế 'tai nghe chuẩn lab'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Samsung: AI mở rộng khả năng sáng tạo với camera Galaxy S26",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Bảo mật trên Galaxy S26 có gì mới?",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "iPhone 17e - khi Apple tự tin với hệ sinh thái iOS",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Công nghệ điều hòa hiện đại Daikin VRV6A cho công trình thương mại",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Apple ra AirPods Max 2 chống ồn tốt hơn, giá 15 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Những điểm mới của AirTag 2 giá 890.000 đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sony WF-1000XM6 nâng cấp chống ồn, âm thanh 32 bit",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Giá chip nhớ sẽ 'bóp nghẹt' phân khúc điện thoại giá rẻ",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Những tính năng có thể trang bị trên iPhone gập",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Chính sách bảo hành một đổi một thiết bị gia dụng tại FPT Shop",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "JBL BandBox - loa di động đầu tiên tích hợp AI tách nhạc",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Oppo hé lộ Find N6 'không nếp gập', hỗ trợ bút AI",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Pin điện thoại Honor mỏng như thẻ ATM lộ diện ở Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "FPT tích hợp VNeID vào ứng dụng quản lý nhà thông minh",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Những yếu tố giúp MacBook Air giữ sức hút",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "ESR mở rộng hệ sinh thái phụ kiện Apple tại Việt Nam",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Loạt laptop chip AMD hiệu năng cao phân khúc tầm trung",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Máy nấu ăn thông minh 52 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Sony LinkBuds Clip - tai nghe dạng mở giá 5 triệu đồng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Bộ đôi máy lọc nước Kangaroo hydrogen tại Điện Máy Xanh",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "CEO Asus: MacBook Neo là một 'cú sốc'",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Motorola ra mắt bộ đôi smartphone siêu mỏng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Thiết kế dự kiến của iPhone màn hình gập",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Daikin Vietnam nâng cấp tính năng tiết kiệm điện cho điều hòa mới",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  },
+  {
+    "title": "Cách nhận biết sản phẩm Jonsbo chính hãng",
+    "source_name": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất"
+  }
+]

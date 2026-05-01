@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Anthropic để lộ toàn bộ mã nguồn Claude Code lần thứ hai, tiết lộ hàng loạt tính năng bí mật chưa từng công bố",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tung bản cập nhật cho Claude Code, Anthropic vô tình tiết lộ hơn 500.000 dòng code trong mã nguồn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ngành âm nhạc sửng sốt trước AI: 300 triệu USD/năm, 7 triệu bài mỗi ngày và một “Spotify mới” sau mỗi 2 tuần",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google đang định xào nấu lại mọi dòng title bằng AI, ngành SEO đứng trước cuộc thay đổi lớn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AI Trung Quốc nổi loạn, tự mở backdoor thoát ra ngoài, chiếm quyền điều khiển GPU để đào tiền mã hóa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rakuten tung mô hình AI 700 tỷ tham số: tưởng “hàng quốc dân” Nhật Bản, hóa ra là DeepSeek V3 của Trung Quốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một trường đại học Việt Nam bắt tay doanh nghiệp công nghệ đào tạo AI, lượng tử và an ninh mạng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "FPT đề xuất cùng Gia Lai xây dựng trung tâm AI, đầu tư hạ tầng công nghệ và giáo dục",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ai còn cần máy in trong kỷ nguyên AI? HP đưa ra câu trả lời",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Apple 'kéo' phó chủ tịch Google về làm AI: Siri mới sẽ chạy trên hạ tầng của chính đối thủ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đại diện HP: AI không cần mô hình lớn nhất, mà cần phù hợp với thiết bị",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Bới rác tìm vàng: Khi những chiếc điện thoại nát bỗng hóa \"tài sản chiến lược\" nhờ cơn khát chip AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google ra mắt TurboQuant: nén KV cache AI lên tới 6 lần, không mất độ chính xác",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cuộc chiến Token: Trung Quốc đang âm thầm vượt mặt các ông lớn trong nền kinh tế AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chiến lược đầu tư của NVIDIA và vai trò của Jensen Huang trong mạng lưới liên minh AI toàn cầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google công bố thuật toán mới, nén bộ nhớ AI xuống 6 lần: cổ phiếu chip nhớ lập tức lao dốc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot học YouTube để biểu cảm chân thực, xóa nhòa ranh giới người - máy",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "FPT triển khai hạ tầng AI với GPU thế hệ mới của NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trung Quốc trình diễn bầy robot chiến đấu tự động với tên lửa siêu nhỏ và AI phối hợp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ 2.200 đồng/phút: AI Streamer ảo đang \"vắt kiệt\" 18 tiếng traffic chết, đe dọa nhân sự nghề livestream",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một doanh nghiệp công nghệ Việt lọt Top 35 nhà cung cấp dịch vụ phát triển ứng dụng AI toàn cầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI đột ngột khai tử công cụ tạo video Sora, Disney \"ngỡ ngàng\" khi thỏa thuận 1 tỷ USD bay màu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sợ kế toán sai một li \"đi... tù một dặm\", lập trình viên tự code ứng dụng AI đọc hóa đơn thay mình",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO Jensen Huang tuyên bố siêu trí tuệ AGI đã đến, nhưng không kỳ diệu như bạn nghĩ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "iPhone 17 Pro chạy được mô hình AI 400 tỷ tham số nhờ thủ thuật stream từ SSD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenClaw khiến 30 năm kinh nghiệm Excel trở nên vô nghĩa: Đây có phải ngày tàn của ‘kỹ năng sử dụng máy tính’ văn phòng?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cơn ác mộng của marketing: OpenClaw có thể làm mất dấu ấn thương hiệu, biến App thành vô hình, giao diện phần mềm UI/UX trở nên vô dụng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Huawei ra mắt Atlas 350: chip AI suy luận mới tuyên bố vượt H20 của NVIDIA 2,8 lần",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Project Amethyst: Sony và AMD bắt tay đưa tính năng tạo khung hình AI vào PlayStation",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Jensen Huang thừa nhận Trung Quốc dẫn đầu robotics, NVIDIA đặt cược vào Physical AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ChatGPT sắp cho phép nội dung nhạy cảm, dấy lo ngại lộ dữ liệu cá nhân",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI lên kế hoạch ra mắt “siêu ứng dụng” trên máy tính",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tranh cãi quanh việc công khai sử dụng AI sinh nội dung trên các cửa hàng game số",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI sắp hợp nhất mọi nền tảng thành 'siêu ứng dụng', chatbot được đẩy lên 1 tầm cao mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AI tạo ra một tài khoản Instagram quá hoàn hảo: chỉ 3 tháng lừa được hơn 1 triệu follower, có người nhận ra nhưng vẫn không bỏ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tưởng chỉ để bơm bóng bay, nhưng loại khí này đang khiến cả ngành chip AI \"khó thở\"",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trung Quốc 'trải thảm đỏ' đón startup AI 1 người: Nhân tài được cấp căn hộ miễn phí, trung tâm 'đắp chiếu' bỗng hoá thành vườn ươm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "So kè OpenClaw và ChatGPT Agent: AI nào thật sự làm được việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xiaomi giới thiệu bộ ba MiMo-V2-Pro, MiMo-V2-Omni và MiMo-V2-TTS, tập trung vào AI đa nhiệm và tổng hợp giọng nói",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Model AI bí ẩn tự nhận \"không biết mình là ai\": cả thế giới nghi là DeepSeek-V4, hóa ra là của Xiaomi",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Dùng 20 năm kiến thức, nhà toán học tạo ra bài toán AI không thể giải, ChatGPT 5.4 phá giải ở lần chạy thứ 11",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenClaw là gì mà CEO Nvidia ca ngợi sẽ trở thành \"ChatGPT tiếp theo\"?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD đạt thỏa thuận với Samsung về nguồn cung HBM4 cho Instinct MI455X, tiếp tục hợp tác sản xuất chip AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nghiên cứu mới: AI đơn lẻ thành công 100%, nhưng làm việc nhóm thất bại tới 68%",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tin buồn cho hàng triệu người dùng ChatGPT",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA phản hồi tranh cãi về DLSS 5: CEO Jensen Huang khẳng định AI không làm giảm chất lượng đồ họa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nhờ AI, Trung Quốc tìm ra cách \"xuất khẩu điện\" không dây sang Mỹ: lãi gấp 20 lần mà không thể bị đánh thuế",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA trình làng nền tảng trung tâm dữ liệu AI Vera Rubin với GPU Rubin và CPU Vera thế hệ mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA dự báo doanh thu vượt 1.000 tỷ USD nhờ nhu cầu tính toán AI tăng vọt đến năm 2027",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA giới thiệu NemoClaw, tăng cường bảo mật cho OpenClaw và thúc đẩy AI Agent trong doanh nghiệp",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Facebook Marketplace tích hợp AI tự động trả lời tin nhắn, tạo bài đăng cho người bán",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Đối thủ của Tinder ra mắt trợ lý AI 'mai mối', có thể loại bỏ cơ chế 'quẹt' quen thuộc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "LG giới thiệu loạt giải pháp HVAC ứng dụng AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hãng điện thoại Trung Quốc thử nghiệm AI OpenClaw tích hợp sâu vào hệ điều hành, tuyển người dùng trải nghiệm sớm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nghịch lý số phận lập trình viên thời AI: Lão làng lên chức, coder trẻ thành người thừa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Nuôi tôm hùm được ví như \"làm chơi ăn thật\": Một người có thể kiếm 1 tỷ trong vài ngày, điều kiện cực dễ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "\"Vibe code\" với Cursor, sinh viên Trung Quốc nhận đầu tư hơn 114 tỷ đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMD hướng dẫn chạy OpenClaw AI agent trên Ryzen AI MAX+ và Radeon AI PRO, hé lộ hiệu năng xử lý ấn tượng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Thực tế khắc nghiệt khi con người làm thuê cho AI: Hơn 600.000 người đăng ký, trung bình 60 người tranh nhau một công việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Trợ lý cuộc gọi FAI 2.0 của mạng di động FPT có gì mới: 7 giọng nói, tự soạn kịch bản giao hàng, lọc cuộc gọi lừa đảo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Một thay đổi nhỏ trên Claude vừa khiến Google và OpenAI phải đau đầu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "SolidRun ra mắt hệ thống AI biên dùng chip AMD Ryzen AI Embedded P100 và RAM LPCAMM2",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Cơn sốt OpenClaw tại Trung Quốc: Khi AI thông minh đến mức Chính phủ phải cảnh báo khẩn cấp vì lo rò rỉ dữ liệu",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA ra mắt Nemotron 3 Super, mô hình AI mã nguồn mở với cửa sổ ngữ cảnh 1 triệu token",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO NVIDIA: Card đồ họa GeForce 25 năm tuổi chính là khởi nguồn của cuộc cách mạng AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta đẩy mạnh phát triển chip AI riêng, ra mắt 4 thế hệ chip mới trong hai năm tới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Tenstorrent ra mắt máy trạm AI làm mát bằng chất lỏng, giá từ ~260 triệu đồng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO AMD Lisa Su đến Hàn Quốc gặp lãnh đạo Samsung, thảo luận về chip AI và HBM",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công ty công nghệ Việt nhận bằng sáng chế AI quốc tế, đứng chung bảng xếp hạng với IBM",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Quá thông minh, Claude AI tự nhận ra mình đang bị kiểm tra: Tự viết code phá mã hóa bảo mật để hack đáp án, gian lận bài test",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Legora, nền tảng AI pháp lý, đạt định giá 5,55 tỷ USD sau vòng gọi vốn 550 triệu USD",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Robot cắt cỏ ANTHBOT Genie ra mắt với AI và định vị RTK, không cần dây biên",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Razer hé lộ tương lai game với trợ lý AI đa năng và công cụ kiểm thử tự động tại GDC 2026",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Adobe mở rộng AI cho Photoshop và Firefly, tăng cường khả năng chỉnh sửa hình ảnh",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Startup Sandbar huy động gần 600 tỷ đồng, ra mắt nhẫn thông minh ghi chú tích hợp AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Từ \"Nước đi 37\" chấn động toàn cầu - giờ AI đã đi xa đến đâu?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Neura Robotics bắt tay Qualcomm, đặt nền móng cho thế hệ robot AI vật lý tiếp theo",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Google tích hợp AI Gemini sâu rộng vào Docs, Sheets, Slides và Drive, nâng cao năng suất làm việc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "YouTube triển khai công nghệ phát hiện deepfake AI cho quan chức, nhà báo, tăng cường tính toàn vẹn thông tin",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AgentMail huy động 6 triệu USD để tạo địa chỉ email riêng cho các AI agent",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Ứng dụng AI gặp khó khăn trong việc giữ chân người dùng, tỷ lệ hủy đăng ký cao hơn 30%",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Chi tiền mua một mạng xã hội dành cho AI, được code bằng AI, Mark Zuckerberg đang toan tính gì?",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA ưu tiên chip AI, CEO Microsoft gợi nhắc về nền tảng gaming của hãng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Amazon mở rộng trợ lý AI y tế Health AI, cung cấp dịch vụ chăm sóc sức khỏe cá nhân hóa",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Phòng thí nghiệm AI của đồng sáng lập OpenAI hợp tác chiến lược với NVIDIA",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "CEO NVIDIA Jensen Huang ví von AI như 'bánh 5 lớp', khẳng định tiềm năng lớn chưa khai thác",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "ChatGPT của OpenAI ra mắt tính năng giải thích trực quan động, cách mạng hóa học tập toán và khoa học",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta thâu tóm Moltbook, mạng xã hội AI từng gây xôn xao vì lo ngại bảo mật",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "NVIDIA tăng tốc tạo video AI trên ComfyUI, đơn giản hóa trải nghiệm người dùng và nâng cao hiệu suất",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "VAI-ONE: Nền tảng họp thông minh cho thế hệ đa nhiệm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Rambus ra mắt bộ điều khiển HBM4E, băng thông mỗi mô-đun hơn 4 TB/s, sẵn sàng cho siêu chip AI thế hệ mới",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "AMI Labs của Yann LeCun gọi vốn hơn 26 nghìn tỷ đồng, tham vọng phát triển AI hiểu thế giới thực",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Báo cáo Unity 2026: game nhỏ lên ngôi, AI trở thành công cụ thiết yếu của nhà phát triển",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Mã nguồn mở nền tảng AI Agent, NVIDIA tạo nên vòng lặp tàn nhẫn: Càng nhiều người thất nghiệp, càng bán được nhiều chip",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Công ty hạ tầng AI Nscale đạt định giá 14,6 tỷ USD, chuẩn bị IPO",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Hơn 30 chuyên gia AI từ OpenAI và Google DeepMind ủng hộ Anthropic kiện Bộ Quốc phòng Mỹ",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "OpenAI mua lại startup Promptfoo, củng cố khả năng bảo mật cho các tác nhân AI",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Khốc liệt cuộc chiến AI Coding: Từ chỗ không thể ngăn cản, Cursor đã bị đối tác thân thiết Anthropic đè bẹp chỉ trong 6 tháng",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Anthropic giới thiệu AI kiểm tra mã nguồn, giúp doanh nghiệp giảm lỗi và tăng tốc phát triển",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Liên minh lưỡng đảng Mỹ đề xuất khuôn khổ phát triển AI có trách nhiệm, giữa lúc Washington bế tắc",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Xung đột Trung Đông đe dọa nguồn cung năng lượng, vật liệu, đẩy ngành công nghiệp AI vào thế khó",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Meta buộc phải mở cửa WhatsApp cho chatbot AI đối thủ tại Brazil, thu phí từng tin nhắn",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Amazon Web Services ra mắt nền tảng AI mới, giúp ngành y tế giảm gánh nặng hành chính",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  },
+  {
+    "title": "Sao chép trí tuệ nhân tạo của Mỹ, Trung Quốc ' bỏ túi' hàng tỷ USD, có founder thành tỷ phú AI chỉ sau 1 đêm",
+    "source_name": "GenK-Trang thông tin điện tử từ tổng hợp"
+  }
+]
